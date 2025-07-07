@@ -16,8 +16,11 @@ import logging
 import json
 import os
 import joblib
+import matplotlib.pyplot as plt
+import io
+import base64
 
-# Setting up logging
+
 logging.basicConfig(level=logging.INFO, format='%(levelname)s:%(name)s:%(message)s')
 logger = logging.getLogger(__name__)
 
@@ -25,10 +28,6 @@ app = Flask(__name__)
 CORS(app)
 
 def load_and_preprocess_data(file_path="Datos_Completos.csv"):
-    """
-    Load and preprocess the CSV file, ensuring all required columns are present.
-    Skips the first line if it contains a title or non-header text.
-    """
     try:
         if not os.path.exists(file_path):
             logger.error(f"CSV file does not exist at path: {file_path}")
@@ -93,7 +92,6 @@ def load_and_preprocess_data(file_path="Datos_Completos.csv"):
             lambda x: 1 if x['avg_daily_usage_hours'] > 5 and 
                           x['relationship_status_single'] in ['Single', 'Complicated'] else 0, axis=1)
 
-        # New classification targets
         df['high_social_media_usage'] = (df['avg_daily_usage_hours'] > 5).astype(int)
         df['low_sleep_quality'] = (df['sleep_hours_per_night'] < 6).astype(int)
 
@@ -248,11 +246,11 @@ def train_models(df):
 
     return regression_pipelines, classification_pipelines, kmeans, scaler, cluster_descriptions
 
-# Create models directory
+
 if not os.path.exists("models"):
     os.makedirs("models")
 
-# Load or train models
+
 try:
     regression_pipelines = {}
     classification_pipelines = {}
@@ -279,7 +277,7 @@ try:
     kmeans = joblib.load("models/kmeans.joblib")
     kmeans_scaler = joblib.load("models/kmeans_scaler.joblib")
     df = load_and_preprocess_data()
-    _, _, _, _, cluster_descriptions = train_models(df)  # Only need cluster_descriptions
+    _, _, _, _, cluster_descriptions = train_models(df)
 except FileNotFoundError:
     df = load_and_preprocess_data()
     regression_pipelines, classification_pipelines, kmeans, kmeans_scaler, cluster_descriptions = train_models(df)
@@ -332,15 +330,84 @@ def predict():
                 logger.error(f"Valor numérico inválido para {col}: {input_data[col].iloc[0]}")
                 return jsonify({'error': f"Valor numérico inválido para {col}: {input_data[col].iloc[0]}"}), 400
 
+        
+        dataset_stats = {
+            'sleep_hours_per_night': df['sleep_hours_per_night'].median(),
+            'avg_daily_usage_hours': df['avg_daily_usage_hours'].mean(),
+            'addicted_score': 7  
+        }
+
         regression_predictions = {}
+        regression_charts = {}
+        regression_chart_descriptions = {
+            'sleep_hours_per_night': 'Este gráfico de líneas muestra las predicciones de horas de sueño por noche para tres modelos. La línea horizontal representa la mediana de horas de sueño del conjunto de datos (referencia poblacional). El punto rojo indica tu valor predicho promedio. Un valor por encima de la mediana sugiere mejor calidad de sueño que el promedio.',
+            'avg_daily_usage_hours': 'Este gráfico de barras muestra las predicciones de horas de uso diario de redes sociales para tres modelos. La línea horizontal representa la media de uso diario del conjunto de datos. La estrella verde marca tu valor predicho promedio. Un valor por encima de la media indica un uso más intensivo que el promedio.',
+            'addicted_score': 'Este gráfico de dispersión muestra las predicciones de puntaje de adicción (0-10) para tres modelos. La línea horizontal en 7 indica el umbral de alto riesgo de dependencia. El diamante azul marca tu valor predicho promedio. Un valor por encima de 7 sugiere un riesgo elevado de adicción a las redes sociales.'
+        }
+
         for target_name, models in regression_pipelines.items():
             features = regression_features[target_name]
             input_data_subset = input_data[features].copy()
             regression_predictions[target_name] = {}
+            
+            model_names = []
+            predictions = []
             for name, pipeline in models.items():
                 transformed_input = pipeline.named_steps['preprocessor'].transform(input_data_subset)
                 prediction = pipeline.predict(input_data_subset)[0]
                 regression_predictions[target_name][name] = float(prediction)
+                model_names.append(name.replace('_', ' '))
+                predictions.append(prediction)
+
+         
+            avg_prediction = np.mean(predictions)
+
+          
+            plt.figure(figsize=(8, 6))
+            if target_name == 'sleep_hours_per_night':
+              
+                plt.plot(model_names, predictions, marker='o', color='#4C78A8', linewidth=2, markersize=8, label='Predicciones')
+                plt.axhline(y=dataset_stats['sleep_hours_per_night'], color='gray', linestyle='--', label=f'Mediana del dataset ({dataset_stats["sleep_hours_per_night"]:.1f} horas)')
+                plt.plot(['Promedio'], [avg_prediction], marker='o', color='red', markersize=12, label='Tu valor promedio')
+                plt.title('Predicciones de Horas de Sueño por Noche')
+                plt.ylabel('Horas')
+                plt.ylim(0, 16)
+                plt.legend()
+                plt.grid(True, linestyle='--', alpha=0.7)
+            elif target_name == 'avg_daily_usage_hours':
+             
+                bars = plt.bar(model_names, predictions, color='#F58518')
+                plt.axhline(y=dataset_stats['avg_daily_usage_hours'], color='gray', linestyle='--', label=f'Media del dataset ({dataset_stats["avg_daily_usage_hours"]:.1f} horas)')
+                plt.plot(['Promedio'], [avg_prediction], marker='*', color='green', markersize=15, label='Tu valor promedio')
+                plt.title('Predicciones de Horas de Uso Diario de Redes')
+                plt.ylabel('Horas')
+                plt.ylim(0, 24)
+                plt.legend()
+                plt.grid(True, axis='y', linestyle='--', alpha=0.7)
+                for bar in bars:
+                    height = bar.get_height()
+                    plt.text(bar.get_x() + bar.get_width()/2, height + 0.2, f'{height:.1f}', ha='center', va='bottom')
+            else:
+              
+                plt.scatter(model_names, predictions, color='#E45756', s=100, label='Predicciones')
+                plt.axhline(y=dataset_stats['addicted_score'], color='gray', linestyle='--', label='Umbral de alto riesgo (7)')
+                plt.scatter(['Promedio'], [avg_prediction], color='blue', marker='D', s=150, label='Tu valor promedio')
+                plt.title('Predicciones de Puntaje de Adicción')
+                plt.ylabel('Puntaje (0-10)')
+                plt.ylim(0, 10)
+                plt.legend()
+                plt.grid(True, linestyle='--', alpha=0.7)
+
+            plt.tight_layout()
+            buffer = io.BytesIO()
+            plt.savefig(buffer, format='png', bbox_inches='tight')
+            buffer.seek(0)
+            chart_base64 = base64.b64encode(buffer.getvalue()).decode('utf-8')
+            regression_charts[target_name] = {
+                'image': f'data:image/png;base64,{chart_base64}',
+                'description': regression_chart_descriptions[target_name]
+            }
+            plt.close()
 
         classification_predictions = {}
         for target_name, models in classification_pipelines.items():
@@ -349,7 +416,6 @@ def predict():
             for name, pipeline in models.items():
                 transformed_input = pipeline.named_steps['preprocessor'].transform(input_data_subset)
                 if name == 'Logistic_Regression':
-                    # Return probability for the predicted class
                     probas = pipeline.named_steps['model'].predict_proba(transformed_input)[0]
                     prediction = pipeline.predict(input_data_subset)[0]
                     classification_predictions[target_name][name] = {
@@ -368,7 +434,6 @@ def predict():
         kmeans_input_scaled = kmeans_scaler.transform(kmeans_input)
         cluster = int(kmeans.predict(kmeans_input_scaled)[0])
 
-        # Derived social media dependency risk score (0-100)
         addicted_score = regression_predictions['addicted_score']['Random_Forest_Regression']
         usage_hours = regression_predictions['avg_daily_usage_hours']['Random_Forest_Regression']
         low_sleep = classification_predictions['low_sleep_quality']['Logistic_Regression']['prediction']
@@ -376,6 +441,7 @@ def predict():
 
         response = {
             'Regression_Predictions': regression_predictions,
+            'Regression_Charts': regression_charts,
             'Classification_Predictions': classification_predictions,
             'KMeans_Cluster': cluster,
             'KMeans_Cluster_Description': cluster_descriptions[cluster],
