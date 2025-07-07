@@ -1,4 +1,7 @@
-from flask import Flask, request, jsonify
+import matplotlib
+matplotlib.use('Agg')  # Usar backend no interactivo para evitar errores de tkinter
+import matplotlib.pyplot as plt
+from flask import Flask, request, jsonify, abort
 from flask_cors import CORS
 import pandas as pd
 import numpy as np
@@ -16,16 +19,34 @@ import logging
 import json
 import os
 import joblib
-import matplotlib.pyplot as plt
 import io
 import base64
+from threading import Lock
+from functools import wraps
+import time
 
-
+# Configurar logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s:%(name)s:%(message)s')
 logger = logging.getLogger(__name__)
 
+# Crear un lock para manejar la concurrencia en matplotlib
+matplotlib_lock = Lock()
+
 app = Flask(__name__)
-CORS(app)
+CORS(app)  # Restringir orígenes para CORS
+
+# Decorador para timeout
+def timeout(seconds):
+    def decorator(f):
+        @wraps(f)
+        def wrapper(*args, **kwargs):
+            start = time.time()
+            result = f(*args, **kwargs)
+            if time.time() - start > seconds:
+                abort(504, description="Request timed out")
+            return result
+        return wrapper
+    return decorator
 
 def load_and_preprocess_data(file_path="Datos_Completos.csv"):
     try:
@@ -169,8 +190,15 @@ def train_models(df):
         'Decision_Tree_Classifier': DecisionTreeClassifier(random_state=42)
     }
 
-    with open('category_map.json', 'r') as f:
-        category_map = json.load(f)
+    try:
+        with open('category_map.json', 'r') as f:
+            category_map = json.load(f)
+    except FileNotFoundError:
+        logger.error("category_map.json no encontrado")
+        raise
+    except json.JSONDecodeError:
+        logger.error("Error al decodificar category_map.json")
+        raise
 
     regression_pipelines = {}
     for target_name, y in regression_targets.items():
@@ -246,10 +274,8 @@ def train_models(df):
 
     return regression_pipelines, classification_pipelines, kmeans, scaler, cluster_descriptions
 
-
 if not os.path.exists("models"):
     os.makedirs("models")
-
 
 try:
     regression_pipelines = {}
@@ -283,7 +309,10 @@ except FileNotFoundError:
     regression_pipelines, classification_pipelines, kmeans, kmeans_scaler, cluster_descriptions = train_models(df)
 
 @app.route('/predict', methods=['POST'])
+@timeout(30)  # 30 segundos de timeout
 def predict():
+    start_time = time.time()
+    logger.info("Iniciando procesamiento de la solicitud")
     try:
         data = request.get_json()
         logger.info(f"Received input data: {data}")
@@ -306,8 +335,26 @@ def predict():
                 logger.error(f"Valor no numérico para {field}: {data[field]}")
                 return jsonify({'error': f"Valor no numérico para {field}: {data[field]}"}), 400
 
-        with open('category_map.json', 'r') as f:
-            category_map = json.load(f)
+        # Validaciones adicionales para rangos
+        if not (10 <= data['age'] <= 80):
+            logger.error(f"Edad fuera de rango: {data['age']}")
+            return jsonify({'error': 'Edad debe estar entre 10 y 80'}), 400
+        if not (0 <= data['avg_daily_usage_hours'] <= 24):
+            logger.error(f"Horas de uso diario fuera de rango: {data['avg_daily_usage_hours']}")
+            return jsonify({'error': 'Horas de uso diario deben estar entre 0 y 24'}), 400
+        if not (0 <= data['sleep_hours_per_night'] <= 16):
+            logger.error(f"Horas de sueño fuera de rango: {data['sleep_hours_per_night']}")
+            return jsonify({'error': 'Horas de sueño deben estar entre 0 y 16'}), 400
+
+        try:
+            with open('category_map.json', 'r') as f:
+                category_map = json.load(f)
+        except FileNotFoundError:
+            logger.error("category_map.json no encontrado")
+            return jsonify({'error': 'Archivo category_map.json no encontrado'}), 500
+        except json.JSONDecodeError:
+            logger.error("Error al decodificar category_map.json")
+            return jsonify({'error': 'Error al decodificar category_map.json'}), 500
 
         for col in categorical_features:
             data[col] = data[col].capitalize()
@@ -330,7 +377,6 @@ def predict():
                 logger.error(f"Valor numérico inválido para {col}: {input_data[col].iloc[0]}")
                 return jsonify({'error': f"Valor numérico inválido para {col}: {input_data[col].iloc[0]}"}), 400
 
-        
         dataset_stats = {
             'sleep_hours_per_night': df['sleep_hours_per_night'].median(),
             'avg_daily_usage_hours': df['avg_daily_usage_hours'].mean(),
@@ -349,7 +395,6 @@ def predict():
             features = regression_features[target_name]
             input_data_subset = input_data[features].copy()
             regression_predictions[target_name] = {}
-            
             model_names = []
             predictions = []
             for name, pipeline in models.items():
@@ -359,55 +404,51 @@ def predict():
                 model_names.append(name.replace('_', ' '))
                 predictions.append(prediction)
 
-         
             avg_prediction = np.mean(predictions)
 
-          
-            plt.figure(figsize=(8, 6))
-            if target_name == 'sleep_hours_per_night':
-              
-                plt.plot(model_names, predictions, marker='o', color='#4C78A8', linewidth=2, markersize=8, label='Predicciones')
-                plt.axhline(y=dataset_stats['sleep_hours_per_night'], color='gray', linestyle='--', label=f'Mediana del dataset ({dataset_stats["sleep_hours_per_night"]:.1f} horas)')
-                plt.plot(['Promedio'], [avg_prediction], marker='o', color='red', markersize=12, label='Tu valor promedio')
-                plt.title('Predicciones de Horas de Sueño por Noche')
-                plt.ylabel('Horas')
-                plt.ylim(0, 16)
-                plt.legend()
-                plt.grid(True, linestyle='--', alpha=0.7)
-            elif target_name == 'avg_daily_usage_hours':
-             
-                bars = plt.bar(model_names, predictions, color='#F58518')
-                plt.axhline(y=dataset_stats['avg_daily_usage_hours'], color='gray', linestyle='--', label=f'Media del dataset ({dataset_stats["avg_daily_usage_hours"]:.1f} horas)')
-                plt.plot(['Promedio'], [avg_prediction], marker='*', color='green', markersize=15, label='Tu valor promedio')
-                plt.title('Predicciones de Horas de Uso Diario de Redes')
-                plt.ylabel('Horas')
-                plt.ylim(0, 24)
-                plt.legend()
-                plt.grid(True, axis='y', linestyle='--', alpha=0.7)
-                for bar in bars:
-                    height = bar.get_height()
-                    plt.text(bar.get_x() + bar.get_width()/2, height + 0.2, f'{height:.1f}', ha='center', va='bottom')
-            else:
-              
-                plt.scatter(model_names, predictions, color='#E45756', s=100, label='Predicciones')
-                plt.axhline(y=dataset_stats['addicted_score'], color='gray', linestyle='--', label='Umbral de alto riesgo (7)')
-                plt.scatter(['Promedio'], [avg_prediction], color='blue', marker='D', s=150, label='Tu valor promedio')
-                plt.title('Predicciones de Puntaje de Adicción')
-                plt.ylabel('Puntaje (0-10)')
-                plt.ylim(0, 10)
-                plt.legend()
-                plt.grid(True, linestyle='--', alpha=0.7)
+            with matplotlib_lock:
+                plt.figure(figsize=(6, 4))  # Tamaño más pequeño para optimizar
+                if target_name == 'sleep_hours_per_night':
+                    plt.plot(model_names, predictions, marker='o', color='#4C78A8', linewidth=2, markersize=8, label='Predicciones')
+                    plt.axhline(y=dataset_stats['sleep_hours_per_night'], color='gray', linestyle='--', label=f'Mediana del dataset ({dataset_stats["sleep_hours_per_night"]:.1f} horas)')
+                    plt.plot(['Promedio'], [avg_prediction], marker='o', color='red', markersize=12, label='Tu valor promedio')
+                    plt.title('Predicciones de Horas de Sueño por Noche')
+                    plt.ylabel('Horas')
+                    plt.ylim(0, 16)
+                    plt.legend()
+                    plt.grid(True, linestyle='--', alpha=0.7)
+                elif target_name == 'avg_daily_usage_hours':
+                    bars = plt.bar(model_names, predictions, color='#F58518')
+                    plt.axhline(y=dataset_stats['avg_daily_usage_hours'], color='gray', linestyle='--', label=f'Media del dataset ({dataset_stats["avg_daily_usage_hours"]:.1f} horas)')
+                    plt.plot(['Promedio'], [avg_prediction], marker='*', color='green', markersize=15, label='Tu valor promedio')
+                    plt.title('Predicciones de Horas de Uso Diario de Redes')
+                    plt.ylabel('Horas')
+                    plt.ylim(0, 24)
+                    plt.legend()
+                    plt.grid(True, axis='y', linestyle='--', alpha=0.7)
+                    for bar in bars:
+                        height = bar.get_height()
+                        plt.text(bar.get_x() + bar.get_width()/2, height + 0.2, f'{height:.1f}', ha='center', va='bottom')
+                else:
+                    plt.scatter(model_names, predictions, color='#E45756', s=100, label='Predicciones')
+                    plt.axhline(y=dataset_stats['addicted_score'], color='gray', linestyle='--', label='Umbral de alto riesgo (7)')
+                    plt.scatter(['Promedio'], [avg_prediction], color='blue', marker='D', s=150, label='Tu valor promedio')
+                    plt.title('Predicciones de Puntaje de Adicción')
+                    plt.ylabel('Puntaje (0-10)')
+                    plt.ylim(0, 10)
+                    plt.legend()
+                    plt.grid(True, linestyle='--', alpha=0.7)
 
-            plt.tight_layout()
-            buffer = io.BytesIO()
-            plt.savefig(buffer, format='png', bbox_inches='tight')
-            buffer.seek(0)
-            chart_base64 = base64.b64encode(buffer.getvalue()).decode('utf-8')
-            regression_charts[target_name] = {
-                'image': f'data:image/png;base64,{chart_base64}',
-                'description': regression_chart_descriptions[target_name]
-            }
-            plt.close()
+                plt.tight_layout()
+                buffer = io.BytesIO()
+                plt.savefig(buffer, format='png', bbox_inches='tight')
+                buffer.seek(0)
+                chart_base64 = base64.b64encode(buffer.getvalue()).decode('utf-8')
+                regression_charts[target_name] = {
+                    'image': f'data:image/png;base64,{chart_base64}',
+                    'description': regression_chart_descriptions[target_name]
+                }
+                plt.close()
 
         classification_predictions = {}
         for target_name, models in classification_pipelines.items():
@@ -448,6 +489,7 @@ def predict():
             'Dependency_Risk_Score': dependency_risk
         }
 
+        logger.info(f"Procesamiento completado en {time.time() - start_time:.2f} segundos")
         logger.info(f"Final response: {response}")
         return jsonify(response)
     except Exception as e:
@@ -455,4 +497,4 @@ def predict():
         return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8000)
+    app.run(debug=False, port=8000)
