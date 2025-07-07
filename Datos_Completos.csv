@@ -1,0 +1,1939 @@
+Datos_Completos
+age,gender,Academic_Level,Country,avg_daily_usage_hours,Most_Used_Platform,affects_academic_performance,sleep_hours_per_night, mental_health_score ,relationship_status_single,conflicts_over_social_media,addicted_score
+20,Female,Engineer,Mexico,3,Instagram,0,6,9,Single,2,2
+20,Male,Engineer,Mexico,3,Instagram,0,7,9,Single,1,2
+20,Male,Engineer,Mexico,3,Instagram,0,7,9,Single,1,2
+20,Male,Engineer,Mexico,3,Instagram,0,7,9,Single,1,2
+21,Male,Engineer,Mexico,5,Instagram,0,4,9,Single,0,3
+21,Male,Engineer,Mexico,5,Instagram,0,4,8,Single,0,1
+22,Female,Engineer,Mexico,5,Instagram,0,6,9,Single,1,3
+22,Female,Engineer,Mexico,3,Instagram,0,6,9,Single,1,2
+22,Female,Engineer,Mexico,5,Instagram,0,6,9,Single,1,3
+20,Female,Engineer,Mexico,7,Instagram,0,6,8,Single,2,4
+25,Female,Engineer,Mexico,7,Instagram,0,7,8,Single,4,4
+24,Female,Secondary,Mexico,3,Instagram,0,6,9,Single,2,2
+32,Male,Engineer,Mexico,5,Instagram,0,7,9,Single,1,3
+18,Male,Engineer,Mexico,7,Instagram,0,8,8,Single,1,4
+18,Female,Engineer,Mexico,3,Instagram,0,5,9,Single,0,2
+21,Female,Engineer,Mexico,3,Instagram,0,7,9,Single,0,2
+18,Male,Engineer,Mexico,5,Instagram,0,7,9,Single,3,3
+18,Male,Engineer,Mexico,7,Instagram,0,8,8,Single,1,4
+18,Male,Engineer,Mexico,5,Instagram,0,4,9,Single,0,3
+19,Male,Engineer,Mexico,5,Instagram,0,8,9,Single,0,3
+20,Female,Engineer,Mexico,5,Instagram,0,5,9,Single,1,3
+21,Male,Engineer,Mexico,5,Instagram,0,7,8,Single,2,3
+21,Female,Secondary,Mexico,3,Instagram,0,7,9,Single,1,2
+22,Female,Engineer,Mexico,5,Instagram,0,9,9,Single,0,2
+21,Female,Secondary,Mexico,3,Instagram,0,5,9,Single,0,1
+80,Otro,Engineer,Mexico,9,Instagram,0,9,8,Single,4,5
+79,Otro,Engineer,Mexico,9,Instagram,0,9,8,Single,4,5
+23,Male,Engineer,Mexico,5,Instagram,0,4,9,Single,0,3
+18,Female,Engineer,Mexico,5,Instagram,0,7,9,Single,2,3
+21,Female,Secondary,Mexico,1.5,Instagram,0,4,9,Single,0,1
+20,Male,Engineer,Mexico,5,Instagram,0,6,9,Single,0,3
+18,Male,Engineer,Mexico,5,Instagram,0,9,10,Single,0,2
+21,Female,Engineer,Mexico,1.5,Instagram,0,6,8,Single,3,2
+18,Male,Engineer,Mexico,3,Instagram,0,6,9,Single,2,2
+32,Female,Engineer,Mexico,5,Instagram,0,8,9,Single,0,3
+20,Male,Engineer,Mexico,9,Instagram,0,7,8,Single,0,4
+23,Male,Secondary,Mexico,0.5,Instagram,0,6,8,Single,2,2
+25,Female,Secondary,Mexico,0.5,Instagram,0,7,8,Single,0,2
+21,Female,Engineer,Mexico,5,Instagram,0,6,9,Single,0,3
+20,Female,Secondary,Mexico,3,Instagram,0,5,9,Single,2,2
+22,Female,Secondary,Mexico,5,Instagram,0,8,9,Single,0,2
+25,Female,Secondary,Mexico,1.5,Instagram,0,6,8,Single,1,2
+18,Male,Engineer,Mexico,7,Instagram,0,8,8,Single,1,4
+18,Male,Engineer,Mexico,5,Instagram,0,7,9,Single,3,3
+80,Otro,Engineer,Mexico,1.5,Instagram,0,8,9,Single,0,1
+19,Male,Engineer,Mexico,3,Instagram,0,9,9,Single,0,3
+22,Female,Engineer,Mexico,5,Instagram,0,6,9,Single,2,2
+24,Male,Engineer,Mexico,3,Instagram,0,7,9,Single,0,3
+21,Male,Engineer,Mexico,3,Instagram,0,5,8,Single,0,3
+21,Male,Engineer,Mexico,9,Instagram,0,6,9,Single,0,4
+19,Male,Engineer,Mexico,9,Instagram,0,9,8,Single,2,4
+21,Female,Engineer,Mexico,3,Instagram,0,5,9,Single,2,2
+21,Female,Engineer,Mexico,5,Instagram,0,7,9,Single,1,3
+21,Female,Engineer,Mexico,3,Instagram,0,6,9,Single,3,2
+21,Female,Secondary,Mexico,3,Instagram,0,6,9,Single,3,2
+21,Female,Engineer,Mexico,3,Instagram,0,6,9,Single,3,2
+22,Female,Secondary,Mexico,3,Instagram,0,7,9,Single,1,2
+24,Male,Engineer,Mexico,5,Instagram,0,6,9,Single,2,3
+25,Female,Engineer,Mexico,3,Instagram,0,6,9,Single,2,2
+25,Female,Engineer,Mexico,3,Instagram,0,6,9,Single,2,2
+21,Male,graduate,Mexico,1.5,Instagram,0,5,9,Single,0,1
+25,Male,Engineer,Mexico,3,Instagram,0,6,9,Single,0,2
+21,Male,Secondary,Mexico,3,Instagram,0,7,9,Single,0,2
+21,Male,Engineer,Mexico,9,Instagram,0,6,9,Single,0,4
+20,Female,Engineer,Mexico,3,Instagram,0,6,9,Single,0,2
+18,Female,Engineer,Mexico,9,Instagram,0,5,9,Single,2,4
+16,Female,Engineer,Mexico,3,Instagram,0,8,9,Single,0,1
+21,Male,Secondary,Mexico,5,Instagram,0,8,9,Single,0,3
+17,Male,Engineer,Mexico,3,Instagram,0,8,9,Single,0,3
+21,Otro,Secondary,Mexico,1.5,Instagram,0,6,9,Single,0,1
+21,Female,Engineer,Mexico,3,Instagram,0,6,8,Single,2,3
+18,Male,Engineer,Mexico,3,Instagram,0,8,8,Single,2,3
+18,Female,Engineer,Mexico,5,Instagram,0,7,9,Single,2,3
+21,Male,Engineer,Mexico,9,Instagram,0,6,9,Single,0,4
+20,Female,Secondary,Mexico,7,Instagram,0,5,9,Single,2,3
+14,Male,Engineer,Mexico,3,Instagram,0,4,9,Single,0,2
+24,Male,Engineer,Mexico,5,Instagram,0,5,9,Single,3,2
+18,Female,Engineer,Mexico,5,Instagram,0,7,9,Single,2,3
+35,Male,Engineer,Mexico,3,Instagram,0,5,9,Single,0,2
+25,Female,Engineer,Mexico,3,Instagram,0,5,9,Single,1,2
+30,Male,Engineer,Mexico,1.5,Instagram,0,8,9,Single,0,1
+20,Otro,Engineer,Mexico,5,Instagram,0,5,10,Single,1,2
+22,Male,Engineer,Mexico,1.5,Instagram,0,6,9,Single,1,1
+24,Female,Engineer,Mexico,3,Instagram,0,5,9,Single,0,2
+21,Female,Engineer,Mexico,3,Instagram,0,4,9,Single,0,2
+23,Male,Engineer,Mexico,1.5,Instagram,0,5,8,Single,1,1
+18,Male,Engineer,Mexico,3,Instagram,0,6,9,Single,0,2
+52,Female,Engineer,Mexico,3,Instagram,0,6,9,Single,0,2
+29,Female,Engineer,Mexico,1.5,Instagram,0,5,9,Single,0,1
+34,Male,Engineer,Mexico,1.5,Instagram,0,7,9,Single,0,1
+45,Male,Engineer,Mexico,1.5,Instagram,0,6,9,Single,0,1
+15,Male,Engineer,Mexico,7,Instagram,0,7,9,Single,1,3
+17,Male,Engineer,Mexico,5,Instagram,0,6,9,Single,2,3
+22,Male,Engineer,Mexico,3,Instagram,0,8,8,Single,2,3
+25,Female,Engineer,Mexico,3,Instagram,0,6,9,Single,0,2
+19,Male,Engineer,Mexico,9,Instagram,0,8,8,Single,2,4
+54,Female,Engineer,Mexico,1.5,Instagram,0,7,9,Single,0,1
+21,Male,Engineer,Mexico,9,Instagram,0,4,10,Single,2,3
+20,Male,Engineer,Mexico,5,Instagram,0,5,9,Single,0,3
+18,Female,Engineer,Mexico,5,Instagram,0,6,9,Single,1,3
+23,Male,Engineer,Mexico,7,Instagram,0,7,8,Single,1,4
+20,Male,Engineer,Mexico,8,Instagram,0,6,0,Single,0,0
+20,Female,Engineer,Mexico,6,Instagram,1,3,0,Complicated,0,0
+20,Male,Engineer,Mexico,4,Instagram,0,6,0,Single,0,0
+20,Male,Engineer,Mexico,1,YouTube,1,6,0,In a relationship,0,0
+20,Male,Engineer,Mexico,10,TikTok,1,6,0,Single,0,0
+20,Female,Engineer,Mexico,6,Instagram,0,6,0,Single,0,0
+20,Male,Engineer,Mexico,6,WhatsApp,0,8,0,Single,0,0
+21,Female,Engineer,Mexico,4,TikTok,0,6,0,Single,0,0
+20,Male,Engineer,Mexico,3,Instagram,1,5,0,Single,0,0
+19,Female,Engineer,Mexico,8,TikTok,1,7,0,In a relationship,0,0
+21,Female,Engineer,Mexico,4,WhatsApp,0,5,0,Single,0,0
+21,Male,Secondary,Mexico,8,WhatsApp,0,8,0,Single,0,0
+22,Female,Engineer,Mexico,8,WhatsApp,0,5,0,Single,0,0
+23,Male,Engineer,Mexico,5,TikTok,0,8,0,Single,0,0
+22,Female,Engineer,Mexico,7,TikTok,0,7,0,Single,0,0
+21,Male,Engineer,Mexico,4,Instagram,0,6,0,Single,0,0
+22,Male,Engineer,Mexico,5,Instagram,1,7,0,Single,0,0
+29,Female,Engineer,Mexico,10,WhatsApp,1,7,0,In a relationship,0,0
+20,Male,Engineer,Mexico,5,WhatsApp,1,6,0,Single,0,0
+21,Male,Engineer,Mexico,8,Instagram,1,8,0,In a relationship,0,0
+52,Female,Engineer,Mexico,1,WhatsApp,0,6,0,In a relationship,0,0
+21,Female,Engineer,Mexico,4,TikTok,1,8,0,Single,0,0
+19,Male,Secondary,Mexico,8,Instagram,0,6,0,In a relationship,0,0
+24,Male,Engineer,Mexico,5,Instagram,1,6,0,In a relationship,0,0
+16,Female,Secondary,Mexico,2,TikTok,0,8,0,Single,0,0
+19,Female,Engineer,Mexico,3,WhatsApp,0,8,0,Single,0,0
+18,Male,Engineer,Mexico,7,Instagram,0,5,0,Single,0,0
+20,Female,Engineer,Mexico,6,TikTok,1,6,0,Complicated,0,0
+21,Male,Engineer,Mexico,5,TikTok,1,4,0,In a relationship,0,0
+19,Female,Secondary,Mexico,5,Instagram,0,7,0,In a relationship,0,0
+19,Female,Engineer,Mexico,5,WhatsApp,0,6,0,Single,0,0
+22,Female,Engineer,Mexico,6,TikTok,1,7,0,Single,0,0
+20,Female,Engineer,Mexico,2,Instagram,0,8,0,Single,0,0
+23,Female,Engineer,Mexico,10,WhatsApp,0,5,0,Complicated,0,0
+23,Male,Engineer,Mexico,5,Instagram,0,5,0,Single,0,0
+19,Male,Engineer,Mexico,6,Instagram,1,7,0,In a relationship,0,0
+16,Female,Secondary,Mexico,9,Instagram,1,8,0,Single,0,0
+17,Female,Secondary,Mexico,5,TikTok,0,6,0,In a relationship,0,0
+23,Male,Engineer,Mexico,6,TikTok,0,7,0,Single,0,0
+21,Female,Secondary,Mexico,10,WhatsApp,0,5,0,Complicated,0,0
+21,Female,Secondary,Mexico,5,Instagram,0,8,0,Single,0,0
+18,Male,Secondary,Mexico,5,Twitter,0,8,0,Single,0,0
+22,Male,Engineer,Mexico,6,TikTok,1,3,0,Complicated,0,0
+21,Female,Engineer,Mexico,4,TikTok,0,4,0,Single,0,0
+21,Female,Engineer,Mexico,5,TikTok,1,8,0,Complicated,0,0
+25,Female,Engineer,Mexico,2,TikTok,0,6,0,In a relationship,0,0
+21,Female,Engineer,Mexico,6,TikTok,1,6,0,Single,0,0
+21,Male,Engineer,Mexico,3,TikTok,0,8,0,In a relationship,0,0
+21,Female,Engineer,Mexico,2,Instagram,0,8,0,In a relationship,0,0
+22,Female,Engineer,Mexico,4,TikTok,1,12,0,Single,0,0
+20,Female,Engineer,Mexico,8,WhatsApp,0,6,0,Single,0,0
+21,Male,Engineer,Mexico,6,TikTok,0,9,0,Complicated,0,0
+21,Female,Engineer,Mexico,15,Instagram,0,5,0,Single,0,0
+21,Female,Engineer,Mexico,6,TikTok,0,6,0,Single,0,0
+19,Male,Secondary,Mexico,5,WhatsApp,0,8,0,Single,0,0
+22,Female,Engineer,Mexico,10,Instagram,1,6,0,In a relationship,0,0
+20,Female,Secondary,Mexico,2,TikTok,0,10,0,Single,0,0
+22,Male,Engineer,Mexico,6,TikTok,1,6,0,Single,0,0
+19,Female,Engineer,Mexico,4,Instagram,0,4.5,0,In a relationship,0,0
+22,Female,Engineer,Mexico,6,Facebook,0,9,0,In a relationship,0,0
+18,Male,graduate,Mexico,12,WhatsApp,0,8,0,In a relationship,0,0
+20,Female,Engineer,Mexico,6,Instagram,1,8,0,Single,0,0
+20,Female,Secondary,Mexico,8,TikTok,0,8,0,In a relationship,0,0
+22,Male,Engineer,Mexico,6,TikTok,1,7,0,In a relationship,0,0
+19,Female,Engineer,Mexico,3,TikTok,0,6,0,Single,0,0
+19,Female,Engineer,Mexico,4,Instagram,0,4,0,In a relationship,0,0
+20,Male,Engineer,Mexico,9,TikTok,1,6,0,In a relationship,0,0
+20,Male,Secondary,Mexico,8,Facebook,1,6,0,Single,0,0
+19,Female,Engineer,Mexico,4,Instagram,0,4,0,In a relationship,0,0
+18,Male,Secondary,Mexico,4,Facebook,1,4,0,Single,0,0
+21,Female,Engineer,Mexico,6,TikTok,0,8,0,Single,0,0
+22,Female,Engineer,Mexico,8,TikTok,1,8,0,In a relationship,0,0
+21,Female,Engineer,Mexico,10,TikTok,0,8,0,Single,0,0
+24,Female,Engineer,Mexico,8,TikTok,0,9,0,Single,0,0
+49,Male,Secondary,Mexico,2,Facebook,0,7,0,In a relationship,0,0
+18,Female,Engineer,Mexico,18,Twitter,0,7,0,Single,0,0
+19,Female,Engineer,Mexico,6,TikTok,0,9,0,Single,0,0
+20,Male,Engineer,Mexico,5,Instagram,0,8,0,Single,0,0
+21,Female,Engineer,Mexico,6,TikTok,0,8,0,In a relationship,0,0
+20,Female,Engineer,Mexico,10,WhatsApp,1,6,0,In a relationship,0,0
+23,Male,Engineer,Mexico,6,Instagram,0,8,0,Single,0,0
+23,Female,Engineer,Mexico,24,WhatsApp,0,12,0,Single,0,0
+20,Female,Engineer,Mexico,5,Instagram,0,7,0,Single,0,0
+21,Female,Engineer,Mexico,8,YouTube,0,8,0,In a relationship,0,0
+21,Male,Engineer,Mexico,8,TikTok,0,7,0,Single,0,0
+20,Female,Engineer,Mexico,2,TikTok,0,7,0,Single,0,0
+22,Male,Engineer,Mexico,8,TikTok,0,9,0,Single,0,0
+20,Male,Engineer,Mexico,2,TikTok,0,6,0,Single,0,0
+20,Male,Engineer,Mexico,2,Facebook,0,7,0,In a relationship,0,0
+20,Male,Engineer,Mexico,4,TikTok,0,7,0,Single,0,0
+20,Female,Engineer,Mexico,20,TikTok,1,4,0,Complicated,0,0
+23,Male,Engineer,Mexico,5,Facebook,0,6,0,Single,0,0
+21,Male,Engineer,Mexico,4,TikTok,1,7,0,Single,0,0
+21,Male,Engineer,Mexico,3,Facebook,0,7,0,In a relationship,0,0
+21,Male,Engineer,Mexico,2,TikTok,1,5,0,Complicated,0,0
+21,Male,Engineer,Mexico,4,TikTok,0,8,0,Single,0,0
+27,Female,Engineer,Mexico,6,Instagram,0,7,0,In a relationship,0,0
+21,Female,Engineer,Mexico,5,TikTok,0,6,0,In a relationship,0,0
+24,Male,Engineer,Mexico,10,TikTok,0,8,0,Single,0,0
+21,Male,Engineer,Mexico,5,TikTok,0,4,0,In a relationship,0,0
+21,Male,Engineer,Mexico,8,Instagram,0,8,0,Single,0,0
+21,Female,Engineer,Mexico,4,TikTok,0,9,0,Single,0,0
+20,Male,Engineer,Mexico,6,Facebook,0,3,0,Single,0,0
+20,Female,Engineer,Mexico,3,TikTok,0,5,0,Single,0,0
+27,Male,Engineer,Mexico,4,TikTok,0,10,0,In a relationship,0,0
+22,Male,Engineer,Mexico,5,YouTube,0,6,0,Single,0,0
+22,Male,Engineer,Mexico,6,YouTube,0,7,0,Single,0,0
+21,Female,Engineer,Mexico,5,TikTok,1,7,0,Single,0,0
+24,Female,Engineer,Mexico,5,YouTube,0,8,0,Single,0,0
+20,Male,Secondary,Mexico,4,TikTok,0,6,0,Single,0,0
+21,Female,Engineer,Mexico,8,TikTok,1,8,0,In a relationship,0,0
+20,Female,Engineer,Mexico,2,TikTok,0,8,0,In a relationship,0,0
+21,Female,Engineer,Mexico,6,TikTok,1,6,0,Complicated,0,0
+20,Male,Engineer,Mexico,6,TikTok,0,8,0,Single,0,0
+21,Female,Engineer,Mexico,5,TikTok,0,8,0,Single,0,0
+28,Male,Engineer,Mexico,6,WhatsApp,0,8,0,Single,0,0
+22,Female,Engineer,Mexico,18,TikTok,0,3,0,In a relationship,0,0
+23,Male,Engineer,Mexico,8,TikTok,1,4,0,Single,0,0
+23,Female,Engineer,Mexico,5,Instagram,0,8,0,In a relationship,0,0
+23,Female,Engineer,Mexico,10,TikTok,0,6,0,In a relationship,0,0
+19,Female,Secondary,Mexico,4,YouTube,0,8,0,Single,0,0
+22,Male,Secondary,Mexico,8,TikTok,1,5,0,In a relationship,0,0
+23,Male,Engineer,Mexico,5,WhatsApp,0,8,0,Single,0,0
+21,Male,Engineer,Mexico,24,TikTok,1,7,0,Complicated,0,0
+16,Male,Secondary,Mexico,3,TikTok,0,8,0,Single,0,0
+20,Male,Engineer,USA,3,Instagram,1,0,8,Single,0,4
+25,Male,Engineer,Bangladesh,2,Snapchat,0,1,8,In a relationship,4,7
+25,Male,Engineer,USA,4,YouTube,0,1,8,Complicated,4,9
+23,Male,Secondary,Japan,5,Twitter,1,0,8,Single,0,6
+19,Male,Secondary,Brazil,4,Twitter,1,0,9,Complicated,0,5
+30,Male,Engineer,Mexico,4,Facebook,0,1,6,In a relationship,5,10
+23,Female,Secondary,UK,2,Twitter,1,0,7,Complicated,0,2
+18,Female,Graduate,Mexico,3,YouTube,0,1,4,Complicated,0,3
+22,Female,Graduate,Mexico,1,YouTube,0,1,6,Single,5,6
+25,Male,Secondary,Mexico,8,Snapchat,0,1,6,In a relationship,3,10
+20,Male,Engineer,Brazil,2,Instagram,1,0,9,In a relationship,1,3
+23,Male,Graduate,Mexico,8,TikTok,0,1,7,In a relationship,2,10
+22,Male,Graduate,Germany,5,Instagram,0,1,5,In a relationship,0,6
+22,Male,Secondary,Brazil,2,Instagram,0,1,5,In a relationship,2,4
+22,Female,Secondary,Canada,5,Twitter,0,1,8,Complicated,3,9
+18,Male,Engineer,UK,6,YouTube,0,1,8,Complicated,3,10
+24,Female,Engineer,Bangladesh,3,TikTok,0,1,6,In a relationship,0,3
+25,Male,Graduate,Brazil,2,Snapchat,0,1,6,Single,4,7
+20,Male,Graduate,UK,5,Facebook,1,0,7,Single,0,6
+25,Female,Engineer,Germany,3,YouTube,0,1,4,Complicated,1,5
+22,Male,Graduate,USA,5,Facebook,0,1,4,In a relationship,0,6
+19,Male,Graduate,Mexico,2,Instagram,0,1,5,Complicated,3,5
+25,Male,Secondary,Mexico,1,Facebook,0,1,8,Single,5,6
+22,Male,Graduate,Mexico,7,Snapchat,0,1,5,In a relationship,3,10
+23,Female,Secondary,Brazil,3,TikTok,0,1,7,Single,4,7
+25,Male,Graduate,India,5,TikTok,0,1,7,Complicated,4,10
+17,Male,Secondary,Japan,4,Instagram,0,0,7,Complicated,0,5
+24,Male,Engineer,Mexico,4,TikTok,0,1,7,Single,3,8
+20,Female,Secondary,Canada,4,Instagram,0,1,5,Single,4,9
+23,Male,Secondary,Mexico,4,Facebook,0,1,8,Single,4,9
+18,Male,Engineer,Canada,3,Facebook,0,0,9,In a relationship,1,5
+17,Male,Secondary,UK,8,TikTok,0,1,7,Complicated,1,10
+20,Male,Engineer,Canada,6,Snapchat,0,1,6,Complicated,2,10
+25,Male,Secondary,Mexico,5,Facebook,0,1,5,Single,4,9
+22,Male,Secondary,Mexico,4,YouTube,0,1,5,Complicated,4,8
+22,Male,Secondary,Brazil,1,Instagram,0,0,7,In a relationship,0,2
+22,Male,Graduate,UK,6,Snapchat,0,1,6,Single,4,10
+24,Male,Engineer,Germany,4,TikTok,0,1,8,In a relationship,5,9
+18,Female,Graduate,Bangladesh,4,Facebook,0,1,5,In a relationship,1,5
+23,Male,Engineer,Brazil,1,Snapchat,1,0,9,Single,1,3
+21,Male,Engineer,India,7,Instagram,0,1,5,Single,1,10
+18,Female,Engineer,USA,5,Twitter,1,0,8,In a relationship,0,5
+24,Male,Graduate,Japan,4,Facebook,0,1,4,In a relationship,5,10
+23,Male,Secondary,Germany,3,Snapchat,1,0,7,Complicated,2,5
+22,Male,Secondary,Bangladesh,3,TikTok,1,0,7,In a relationship,2,6
+21,Male,Secondary,Germany,4,Instagram,0,1,6,Single,0,4
+23,Female,Graduate,Germany,2,TikTok,0,1,6,In a relationship,3,6
+19,Male,Engineer,Brazil,8,Facebook,0,1,4,In a relationship,5,10
+23,Male,Engineer,Mexico,5,YouTube,1,0,9,In a relationship,1,7
+22,Female,Graduate,Mexico,6,Facebook,0,1,6,Complicated,4,10
+21,Male,Engineer,UK,5,TikTok,0,0,6,Complicated,5,5
+20,Male,Secondary,Germany,1,Snapchat,1,0,7,In a relationship,3,1
+18,Female,Engineer,Mexico,3,Snapchat,1,0,6,In a relationship,1,4
+22,Female,Secondary,Mexico,6,Snapchat,0,1,7,Complicated,5,9
+21,Female,Graduate,Brazil,2,TikTok,0,1,8,Complicated,0,3
+19,Male,Engineer,India,3,Facebook,0,1,6,Single,2,5
+23,Female,Secondary,India,5,YouTube,0,1,7,In a relationship,3,5
+25,Female,Secondary,Germany,5,Twitter,0,1,6,Single,0,5
+21,Male,Engineer,India,4,Twitter,1,0,7,In a relationship,0,4
+22,Male,Secondary,Bangladesh,7,Instagram,0,1,6,In a relationship,0,7
+19,Male,Engineer,Brazil,7,Facebook,0,1,7,Complicated,4,10
+18,Male,Engineer,Brazil,5,YouTube,0,1,8,Single,3,8
+21,Male,Engineer,USA,4,TikTok,1,0,9,In a relationship,0,6
+21,Female,Engineer,Canada,7,YouTube,0,1,6,Complicated,2,10
+19,Female,Engineer,USA,5,Twitter,0,1,9,In a relationship,0,7
+25,Male,Secondary,India,6,Facebook,0,1,6,Single,5,9
+24,Female,Secondary,Germany,2,TikTok,1,0,6,Single,0,2
+19,Male,Graduate,Bangladesh,5,YouTube,0,1,7,Single,5,8
+20,Female,Engineer,Mexico,4,YouTube,0,1,8,In a relationship,5,7
+28,Male,Engineer,Brazil,8,Snapchat,0,1,7,Complicated,5,10
+20,Female,Secondary,Brazil,4,TikTok,0,1,7,Single,5,8
+20,Male,Engineer,Germany,2,Instagram,1,0,8,Complicated,0,3
+25,Male,Secondary,UK,7,YouTube,0,1,6,In a relationship,5,9
+25,Male,Engineer,Mexico,5,Instagram,0,1,5,In a relationship,3,7
+23,Male,Engineer,Brazil,6,Twitter,0,1,6,In a relationship,3,9
+20,Male,Engineer,Mexico,4,Facebook,0,8,10,Single,0,9
+23,Male,University Higher Technician,Mexico,8,TikTok,0,7,7,In a relationship,2,10
+23,Female,University Higher Technician,Mexico,5,Instagram,0,6,10,Single,0,4
+23,Female,University Higher Technician,Mexico,3,TikTok,0,6,8,In a relationship,0,0
+23,Female,University Higher Technician,Mexico,3,TikTok,0,6,8,In a relationship,0,0
+25,Female,University Higher Technician,Mexico,5,Instagram,0,8,9,In a relationship,4,3
+21,Female,Preparatory,Mexico,6,TikTok,0,7,8,In a relationship,0,4
+22,Female,University Higher Technician,Mexico,8,TikTok,0,9,7,Single,0,4
+21,Female,University Higher Technician,Mexico,5,TikTok,0,6,9,In a relationship,2,10
+21,Female,University Higher Technician,Mexico,5,TikTok,0,6,9,In a relationship,2,10
+17,Female,Preparatory,Mexico,8,TikTok,0,12,7,In a relationship,0,1
+62,Male,Preparatory,Mexico,2,WhatsApp,0,8,10,Married,0,4
+23,Female,University Higher Technician,Mexico,5,TikTok,1,8,6,Single,0,6
+16,Male,University Higher Technician,Mexico,4,TikTok,0,8,10,In a relationship,0,2
+31,Female,University Higher Technician,Mexico,4,TikTok,0,6,10,Single,0,0
+28,Female,Engineer,Mexico,5,Facebook,0,8,8,In a relationship,0,0
+21,Male,University Higher Technician,Mexico,5,Discord,0,7,10,In a relationship,0,3
+20,Male,University Higher Technician,Mexico,8,Instagram,0,8,8,Single,0,8
+20,Male,University Higher Technician,Mexico,8,Instagram,0,8,8,Single,0,8
+20,Male,University Higher Technician,Mexico,8,Instagram,0,8,8,Single,0,8
+23,Male,University Higher Technician,Mexico,2,TikTok,0,5,10,Single,0,3
+29,Female,Preparatory,Mexico,8,TikTok,0,7,8,Single,0,3
+35,Female,Preparatory,Mexico,12,WhatsApp,0,8,1,In a relationship,0,10
+22,Female,University Higher Technician,Mexico,5,Facebook,0,8,7,In a relationship,0,7
+18,Female,University Higher Technician,Mexico,5,TikTok,0,6,6,In a relationship,0,7
+28,Female,Engineer,Mexico,2,Pinterest,0,3,8,Married,0,5
+25,Female,University Higher Technician,Mexico,6,Facebook,0,5,10,Married,3,4
+21,Male,University Higher Technician,Mexico,8,WhatsApp,0,8,10,Single,0,0
+38,Male,graduate,Mexico,3,WhatsApp,0,5,8,Single,0,6
+50,Male,Preparatory,Mexico,4,Facebook,0,7,9,Married,0,2
+20,Male,Preparatory,Mexico,3,Instagram,0,0,10,Single,1,5
+57,Female,Preparatory,Mexico,1,Facebook,0,8,9,Married,0,7
+45,Male,Preparatory,Mexico,3,Facebook,0,8,10,In a relationship,0,2
+43,Female,University Higher Technician,Mexico,2,WhatsApp,0,7,6,Married,0,1
+18,Female,University Higher Technician,Mexico,3,WhatsApp,0,4,5,Single,0,3
+35,Male,Preparatory,Mexico,7,TikTok,0,6,7,In a relationship,0,10
+17,Female,Preparatory,Mexico,5,TikTok,0,5,8,In a relationship,0,4
+24,Female,University Higher Technician,Mexico,3,WhatsApp,0,7,9,Married,0,1
+21,Male,University Higher Technician,Mexico,2,TikTok,0,5,6,Single,0,10
+21,Male,Preparatory,Mexico,8,TikTok,0,8,10,In a relationship,0,7
+23,Male,University Higher Technician,Mexico,1,WhatsApp,0,5,10,Single,0,1
+24,Female,Primary,Mexico,1,Facebook,0,8,10,Married,0,1
+34,Male,University Higher Technician,Mexico,2,TikTok,0,7,8,In a relationship,1,2
+22,Male,University Higher Technician,Mexico,4,Instagram,0,6,8,Single,1,2
+22,Male,University Higher Technician,Mexico,4,Instagram,0,6,8,Single,1,2
+35,Male,Preparatory,Mexico,6,Facebook,0,6,7,Single,0,0
+35,Male,Preparatory,Mexico,6,Facebook,0,6,7,Single,0,0
+23,Male,Engineer,Mexico,6,Facebook,0,7,7,In a relationship,0,5
+22,Male,Engineer,Mexico,2,YouTube,1,6,7,Single,0,1
+15,Male,graduate,Zimbabue,12,TikTok,0,0,10,Single,5,10
+34,Female,Preparatory,Mexico,1,Facebook,0,12,1,In a relationship,0,0
+19,Female,Engineer,Mexico,5,Facebook,0,7,2,Single,0,7
+29,Female,Engineer,Mexico,5,Instagram,1,6,8,In a relationship,0,5
+28,Otro,University Higher Technician,Mexico,9,Facebook,1,8,6,In a relationship,0,10
+32,Male,Preparatory,Mexico,5,Instagram,0,7,8,Single,0,3
+24,Male,University Higher Technician,Mexico,3,Instagram,0,6,10,In a relationship,0,2
+40,Male,Preparatory,Mexico,7,Facebook,1,7,5,Married,0,10
+41,Male,University Higher Technician,Mexico,3,WhatsApp,0,5,8,Married,0,2
+14,Male,Secondary,Mexico,5,WhatsApp,0,12,7,In a relationship,0,7
+30,Female,Preparatory,Mexico,3,Facebook,0,7,1,Single,0,1
+19,Female,Engineer,Mexico,3,Instagram,0,5,10,Single,0,4
+32,Female,Preparatory,Mexico,6,Facebook,0,8,10,Married,0,5
+27,Male,graduate,Mexico,7,WeChat,0,8,10,In a relationship,0,3
+27,Male,graduate,Mexico,7,WeChat,0,8,10,In a relationship,0,3
+21,Male,University Higher Technician,Mexico,1,TikTok,0,8,4,In a relationship,0,10
+45,Female,University Higher Technician,Mexico,3,Facebook,0,7,8,Single,0,5
+19,Male,University Higher Technician,Mexico,3,TikTok,0,7,9,In a relationship,1,5
+24,Male,Secondary,Mexico,1,WhatsApp,0,7,10,Married,0,1
+42,Male,Preparatory,Mexico,9,WhatsApp,1,8,10,Married,0,10
+24,Female,University Higher Technician,Mexico,4,TikTok,0,7,5,Single,0,3
+16,Male,Preparatory,Mexico,2,Twitter,0,7,9,In a relationship,0,1
+61,Female,Preparatory,Mexico,1,Facebook,0,8,10,Married,0,4
+23,Male,University Higher Technician,Mexico,2,Facebook,0,8,10,In a relationship,0,3
+23,Male,Preparatory,Mexico,3,TikTok,0,6,5,Single,0,5
+25,Female,University Higher Technician,Mexico,3,Twitter,0,8,9,Single,1,7
+28,Female,Preparatory,Mexico,3,TikTok,1,7,1,In a relationship,0,7
+32,Female,Secondary,Mexico,4,Facebook,0,8,1,Married,0,6
+23,Male,University Higher Technician,Mexico,2,TikTok,0,9,10,Single,0,7
+23,Male,Engineer,Mexico,6,Instagram,0,6,2,Single,5,10
+29,Male,Engineer,Mexico,4,WhatsApp,1,6,8,In a relationship,0,10
+23,Female,Engineer,Mexico,5,Instagram,0,8,9,In a relationship,0,1
+23,Female,University Higher Technician,Mexico,4,Instagram,0,7,8,Single,0,7
+24,Female,Preparatory,Mexico,8,Instagram,1,4,3,Single,0,5
+24,Male,Engineer,Mexico,1,Instagram,0,6,10,Single,0,10
+14,Male,Secondary,Mexico,2,Instagram,0,8,9,In a relationship,1,6
+16,Male,Secondary,Mexico,12,TikTok,0,8,5,Married,0,3
+16,Male,Secondary,Mexico,12,TikTok,0,8,5,Married,0,3
+25,Female,University Higher Technician,Mexico,2,Instagram,0,8,10,In a relationship,0,7
+24,Male,University Higher Technician,Mexico,1,Instagram,0,8,10,Single,0,2
+25,Male,Engineer,Mexico,2,Instagram,0,8,10,In a relationship,0,5
+23,Male,Preparatory,Mexico,1,TikTok,1,10,9,Single,0,3
+26,Female,University Higher Technician,Mexico,6,Facebook,0,8,10,Married,0,10
+34,Female,Primary,Mexico,4,Facebook,0,6,8,Married,0,4
+19,Female,University Higher Technician,Mexico,3,TikTok,0,7,10,Single,0,9
+19,Female,University Higher Technician,Mexico,3,TikTok,0,7,10,Single,0,9
+21,Female,University Higher Technician,Mexico,5,Instagram,0,7,8,Single,0,2
+21,Female,Engineer,Mexico,2,Instagram,0,8,8,Single,0,2
+19,Female,Engineer,Mexico,6,Instagram,0,6,7,In a relationship,0,4
+22,Female,University Higher Technician,Mexico,2,Pinterest,0,7,9,Married,0,3
+22,Female,University Higher Technician,Mexico,2,Pinterest,0,7,9,Married,0,3
+15,Male,Secondary,Mexico,5,Instagram,0,10,10,Single,1,9
+51,Female,Preparatory,Mexico,4,WhatsApp,0,8,9,In a relationship,0,5
+52,Female,Engineer,Mexico,3,Facebook,0,8,8,Single,0,6
+19,Male,Engineer,Mexico,7,YouTube,1,5,7,Single,0,1
+43,Male,Preparatory,Mexico,3,WhatsApp,0,8,10,In a relationship,0,4
+47,Female,University Higher Technician,Mexico,5,WhatsApp,0,6,8,Single,0,2
+24,Female,Engineer,USA,3,TikTok,0,8,8,In a relationship,0,3
+24,Female,Engineer,Mexico,2,TikTok,0,8,8,In a relationship,0,10
+57,Female,Secondary,Mexico,3,Facebook,0,8,10,Single,0,2
+35,Male,graduate,Antigua y Barbuda,6,WhatsApp,0,8,10,Married,0,1
+22,Male,Preparatory,Mexico,2,Facebook,0,8,8,In a relationship,0,4
+23,Female,University Higher Technician,Mexico,3,TikTok,0,8,10,Single,0,9
+23,Female,University Higher Technician,Mexico,3,TikTok,0,8,10,Single,0,9
+35,Male,University Higher Technician,Mexico,3,TikTok,0,12,10,In a relationship,5,2
+35,Male,University Higher Technician,Mexico,3,TikTok,0,12,10,In a relationship,5,2
+35,Male,University Higher Technician,Mexico,3,TikTok,0,12,10,In a relationship,5,2
+23,Female,University Higher Technician,Mexico,10,Instagram,0,0,9,In a relationship,0,5
+23,Female,University Higher Technician,Mexico,10,Instagram,0,0,9,In a relationship,0,5
+28,Female,University Higher Technician,Mexico,3,WhatsApp,0,6,9,Single,0,7
+21,Male,Engineer,Mexico,2,Instagram,0,6,5,In a relationship,0,4
+19,Female,Engineer,Mexico,4,Facebook,1,5,7,Single,0,8
+19,Female,High_School,Mexico,6,TikTok,1,4,3,In a relationship,1,10
+19,Male,High_School,Mexico,8,YouTube,1,8,9,Single,1,10
+20,Female,Engineer,Mexico,9,TikTok,1,7,8,Single,1,10
+19,Male,Engineer,Mexico,5,Instagram,1,4,4,In a relationship,0,9
+19,Female,Engineer,Mexico,3,Instagram,0,5,4,In a relationship,0,6
+22,Male,High_School,Mexico,1,TikTok,1,6,9,In a relationship,1,6
+20,Male,Engineer,Mexico,7,TikTok,1,8,6,In a relationship,0,10
+20,Male,graduate,Mexico,4,LinkedIn,1,11,4,Single,1,10
+20,Female,graduate,Mexico,2,Instagram,0,5,4,Single,0,3
+21,Female,High_School,Mexico,3,Instagram,0,8,8,In a relationship,0,5
+25,Female,Engineer,Mexico,2,YouTube,0,6,6,In a relationship,0,3
+21,Female,Engineer,Mexico,4,TikTok,1,8,3,Single,1,10
+21,Female,Engineer,Mexico,5,TikTok,1,4,6,Single,0,10
+21,Male,Engineer,Mexico,3,TikTok,1,8,5,In a relationship,1,10
+21,Female,Engineer,Mexico,6,TikTok,1,7,4,Single,1,10
+21,Female,Engineer,Mexico,6,TikTok,1,8,7,Single,1,10
+18,Male,graduate,Mexico,4,Instagram,1,6,4,Single,0,8
+22,Female,High_School,Mexico,10,Instagram,1,6,9,In a relationship,1,10
+20,Female,High_School,Mexico,3,TikTok,1,9,8,Single,1,10
+21,Female,Engineer,Mexico,12,WhatsApp,1,7,9,In a relationship,1,10
+19,Male,graduate,Mexico,10,TikTok,1,9,10,Single,1,10
+21,Female,High_School,Mexico,10,TikTok,1,3,2,Single,1,10
+20,Female,graduate,Mexico,5,TikTok,1,6,10,In a relationship,0,10
+20,Female,Engineer,Mexico,7,TikTok,1,12,10,In a relationship,1,10
+20,Male,graduate,Mexico,4,Facebook,1,7,5,In a relationship,0,8
+19,Female,High_School,Mexico,3,TikTok,1,3,4,Single,1,9
+22,Female,Engineer,Mexico,6,TikTok,1,7,7,In a relationship,1,10
+20,Male,Engineer,Mexico,3,WhatsApp,0,8,6,In a relationship,0,5
+20,Otro,graduate,Mexico,12,LinkedIn,1, -   ,10,Complicated,0,10
+20,Male,Engineer,Mexico,4,Instagram,1,7,3,In a relationship,1,10
+23,Female,Engineer,Bangladesh,5,Instagram,1,9,9,Single,1,10
+20,Male,Engineer,Mexico,5,TikTok,1,8,8,In a relationship,1,10
+25,Male,Engineer,Mexico,3,YouTube,1,7,8,In a relationship,1,10
+16,Male,High_School,Mexico,2,TikTok,1,8,10,Single,1,8
+43,Female,graduate,Mexico,1,WhatsApp,1,5,5,Single,1,5
+17,Female,graduate,Mexico,4,WhatsApp,1,8,8,Single,1,10
+24,Female,graduate,Mexico,5,TikTok,1,7,6,In a relationship,1,10
+20,Female,Engineer,Mexico,4,WhatsApp,1,7,7,Single,1,10
+18,Female,Engineer,Mexico,6,TikTok,1,6,3,Single,1,10
+18,Male,Engineer,Mexico,5,TikTok,1,6,6,Single,1,10
+20,Male,Engineer,Mexico,4,TikTok,1,6,8,Single,0,8
+21,Female,graduate,USA,2,TikTok,1,8,8,In a relationship,1,8
+20,Female,High_School,Mexico,2,TikTok,0,5,2,In a relationship,0,3
+20,Male,Engineer,Mexico,12,TikTok,1, -   ,1,Single,1,10
+22,Male,Engineer,Mexico,4,TikTok,1,8,8,Single,0,7
+24,Male,graduate,Mexico,3,WhatsApp,0,7,10,Single,0,6
+23,Male,graduate,Mexico,5,TikTok,1,7,7,Single,1,10
+21,Female,Engineer,Mexico,4,TikTok,1,8,8,In a relationship,0,8
+20,Male,Engineer,Brazil, -   ,TikTok,0, -   ,1,Single,0,0
+23,Female,High_School,Mexico,6,TikTok,1,6,1,In a relationship,0,10
+42,Female,High_School,Mexico,4,TikTok,1,10,5,In a relationship,1,10
+17,Female,High_School,Mexico,4,TikTok,1,8,10,Single,0,8
+22,Male,Engineer,Mexico,8,Instagram,1,9,8,Single,1,10
+20,Male,Engineer,Mexico,12,TikTok,1, -   ,10,Complicated,0,10
+17,Male,High_School,Mexico,3,TikTok,0,7,10,In a relationship,0,6
+17,Female,High_School,Mexico,3,TikTok,0,5,6,In a relationship,0,5
+21,Male,High_School,Mexico,3,TikTok,1,8,8,Single,1,10
+19,Female,High_School,Mexico,5,TikTok,1,6,7,In a relationship,0,10
+21,Female,Engineer,Mexico,5,TikTok,1,8,3,Single,0,10
+26,Female,graduate,Mexico,4,Instagram,1,7,2,Single,1,10
+20,Male,graduate,Mexico,9,Instagram,1,8,8,Single,1,10
+21,Female,Engineer,Mexico,5,TikTok,1,8,10,Single,0,10
+20,Male,Engineer,Mexico,8,TikTok,1,10,8,Single,1,10
+20,Female,Engineer,Mexico,10,TikTok,1,10,2,Single,0,10
+25,Male,graduate,Mexico,5,YouTube,1,6,4,In a relationship,0,10
+20,Male,graduate,Mexico,3,TikTok,0,9,4,Single,0,6
+24,Female,graduate,Mexico,9,Instagram,1,9,5,In a relationship,1,10
+53,Male,Engineer,Mexico,3,Facebook,0,5,5,Complicated,0,6
+18,Male,High_School,Mexico,3,TikTok,0,7,5,Single,0,6
+19,Female,Engineer,Mexico,9,TikTok,1,8,6,In a relationship,1,10
+18,Female,High_School,Mexico,4,YouTube,1,8,6,In a relationship,0,7
+25,Male,graduate,Mexico,2,Instagram,1,6,4,In a relationship,1,7
+30,Female,graduate,Mexico,3,YouTube,0,7,7,Complicated,0,5
+21,Male,graduate,Mexico,2,WhatsApp,1,7,7,Single,1,8
+21,Male,Engineer,Mexico,3,YouTube,1,9,8,Single,1,10
+92,Male,graduate,Ecuador,10,TikTok,1,2,8,Single,0,10
+19,Female,High_School,Mexico,5,TikTok,1,7,3,In a relationship,1,10
+20,Male,Engineer,Mexico,4,Instagram,1,8,9,In a relationship,0,8
+32,Female,graduate,Italy,1,Facebook,0,9,4,Complicated,0,2
+20,Male,graduate,Mexico,10,TikTok,1,10,8,Single,1,10
+21,Female,Engineer,Mexico,10,TikTok,1,5,7,In a relationship,0,10
+19,Male,graduate,Mexico,8,TikTok,1,8,8,Single,0,10
+22,Male,Engineer,Mexico,8,TikTok,1,7,7,Single,1,10
+24,Female,Engineer,Mexico,7,TikTok,1,8,7,In a relationship,0,10
+19,Female,High_School,Mexico,3,TikTok,1,8,4,Single,1,9
+25,Male,Engineer,Mexico,2,WhatsApp,1,5,8,Single,1,7
+28,Female,High_School,Mexico,5,TikTok,1,7,5,Complicated,0,9
+20,Female,High_School,Mexico,5,Instagram,1,4,4,In a relationship,1,10
+24,Female,Engineer,Mexico,4,Twitter (X),1,8,5,In a relationship,1,10
+30,Male,graduate,Mexico,3,LinkedIn,0,6,4,In a relationship,0,5
+21,Female,Engineer,Mexico,8,WhatsApp,1,8,7,Single,0,10
+23,Female,Engineer,Mexico,5,TikTok,1,4,8,Single,1,10
+18,Male,High_School,Mexico,5,Instagram,1,7,5,Single,0,9
+19,Male,Engineer,Mexico,5,Instagram,1,8,5,In a relationship,1,10
+18,Female,High_School,Mexico,8,Instagram,1,5,5,Single,0,10
+17,Female,High_School,Mexico,4,TikTok,1,7,4,Single,1,10
+18,Female,High_School,Mexico,7,TikTok,1,6,7,In a relationship,0,10
+18,Female,High_School,Mexico,6,TikTok,1,7,9,Single,0,10
+18,Female,High_School,Mexico,4,TikTok,1,7,5,Single,0,7
+19,Female,Engineer,Mexico,5,TikTok,1,6,5,Single,0,9
+17,Female,High_School,Mexico,4,Instagram,1,7,4,In a relationship,0,8
+24,Female,High_School,Mexico,6,TikTok,1,9,6,In a relationship,0,10
+22,Female,Engineer,Bolivia,5,TikTok,1,9,3,Single,0,10
+22,Male,Engineer,Ecuador,1,Instagram,0,6,7,In a relationship,0,2
+18,Male,High_School,Ukraine,4,Twitter (X),1,9,7,In a relationship,1,10
+23,Female,Engineer,Mexico,4,Instagram,1,5,5,Single,0,7
+25,Female,Engineer,Mexico,5,TikTok,1,8,7,In a relationship,1,10
+24,Female,Engineer,Mexico,4,TikTok,1,8,4,Single,0,8
+18,Female,Engineer,Mexico,4,Instagram,1,7,2,Single,2,7
+22,Female,Engineer,Mexico,5,Instagram,1,7,1,Single,7,2
+20,Female,Engineer,Mexico,4,TikTok,1,7,3,Single,7,3
+18,Male,Engineer,Mexico,2,TikTok,0,7,1,Complicated,5,1
+16,Female,Preparatory,Mexico,3,Facebook,1,6,3,Single,4,6
+16,Male,Preparatory,Mexico,4,Twitter,1,6,7,Single,1,7
+24,Male,Engineer,Mexico,3,Twitter,0,8,3,Single,5,9
+17,Male,Preparatory,Mexico,4,TikTok,0,5,9,Single,4,6
+21,Male,Engineer,Mexico,2,TikTok,1,6,6,Single,4,9
+25,Male,Engineer,Mexico,3,TikTok,1,6,6,In a relationship,3,2
+23,Female,Engineer,Mexico,5,Facebook,1,8,9,In a relationship,2,8
+21,Female,Engineer,Mexico,4,TikTok,0,7,6,Single,3,2
+23,Female,Engineer,Mexico,4,TikTok,0,6,2,Single,8,7
+18,Male,Engineer,Mexico,3,TikTok,0,9,1,Single,7,4
+20,Male,Engineer,Mexico,3,TikTok,0,7,1,Single,4,3
+23,Male,Engineer,Mexico,4,Facebook,0,6,2,Single,4,6
+21,Male,Engineer,Mexico,5,Facebook,1,6,10,Single,9,4
+20,Male,Engineer,Mexico,5,Twitter,0,8,1,Single,4,4
+25,Female,Engineer,Mexico,4,Instagram,0,7,7,Complicated,6,7
+19,Female,Engineer,Mexico,4,Instagram,0,9,2,Single,7,2
+16,Female,Engineer,Mexico,4,Facebook,0,5,10,Single,5,7
+16,Female,Engineer,Mexico,5,Facebook,1,8,3,Single,7,3
+19,Female,Engineer,Mexico,2,YouTube,0,8,1,Single,7,8
+21,Female,Engineer,Mexico,5,Instagram,1,7,6,Single,3,2
+21,Male,Engineer,Mexico,2,Instagram,1,6,1,Single,5,6
+20,Male,Engineer,Mexico,4,Instagram,0,8,7,In a relationship,5,1
+24,Female,Engineer,Mexico,2,Instagram,0,8,4,Single,4,6
+20,Female,Engineer,Mexico,5,YouTube,1,5,9,Single,7,6
+22,Male,Engineer,Mexico,3,Instagram,1,7,6,Single,5,7
+25,Male,Engineer,Mexico,4,Instagram,0,6,8,Single,2,1
+20,Female,Engineer,Mexico,2,Facebook,0,5,3,Single,2,1
+23,Male,Engineer,Mexico,2,TikTok,0,8,10,Complicated,4,9
+21,Female,Engineer,Mexico,3,TikTok,0,8,5,Complicated,7,7
+21,Female,Engineer,Mexico,3,TikTok,1,9,7,Single,3,6
+21,Female,Engineer,Mexico,4,Twitter,1,8,10,Single,1,3
+22,Male,Engineer,Mexico,2,YouTube,0,4,1,Single,5,1
+27,Male,Posgrado,Mexico,2,Instagram,0,8,9,In a relationship,1,2
+22,Female,Engineer,Mexico,4,TikTok,0,9,3,In a relationship,4,2
+20,Male,Engineer,Mexico,2,TikTok,1,8,2,Single,1,8
+23,Female,Engineer,Mexico,4,TikTok,0,6,2,Single,4,5
+22,Male,Engineer,Mexico,3,Twitter,0,8,7,Single,2,5
+20,Female,Engineer,Mexico,4,TikTok,0,7,9,Single,7,3
+18,Male,Engineer,Mexico,4,YouTube,0,7,4,Single,0,5
+21,Female,Engineer,Mexico,3,YouTube,0,8,10,Single,4,8
+19,Female,Engineer,Mexico,4,Twitter,0,8,3,In a relationship,9,3
+22,Male,Engineer,Mexico,6,Facebook,1,8,6,Complicated,3,9
+20,Female,Engineer,Mexico,3,Facebook,1,6,5,Single,5,1
+21,Male,Engineer,Mexico,4,Facebook,1,6,6,Complicated,7,5
+17,Female,Preparatory,Mexico,6,Facebook,1,5,10,Single,5,4
+18,Male,Engineer,Mexico,3,Facebook,0,5,5,Single,7,7
+24,Female,Engineer,Mexico,2,Facebook,0,5,9,Single,3,8
+24,Male,Engineer,Mexico,5,YouTube,1,7,2,Single,3,3
+20,Female,Engineer,Mexico,9,Facebook,0,8,5,Single,3,2
+25,Female,Engineer,Mexico,2,TikTok,0,7,2,Single,3,6
+18,Female,Engineer,Mexico,5,TikTok,0,7,7,Complicated,5,6
+24,Female,Engineer,Mexico,6,Instagram,1,9,2,Complicated,2,6
+25,Female,Engineer,Mexico,4,TikTok,0,6,9,Single,7,6
+21,Male,Engineer,Mexico,3,Facebook,0,5,8,Single,6,3
+17,Male,Preparatory,Mexico,3,TikTok,1,3,10,Single,2,7
+20,Female,Engineer,Mexico,3,TikTok,1,9,7,Single,3,4
+24,Male,Engineer,Mexico,5,TikTok,1,5,7,Complicated,6,2
+21,Male,Engineer,Mexico,1,TikTok,1,4,4,Single,3,4
+25,Male,Engineer,Mexico,5,Twitter,1,4,5,In a relationship,5,1
+19,Male,Engineer,Mexico,4,Instagram,1,6,1,In a relationship,4,4
+17,Male,Preparatory,Mexico,3,Instagram,0,10,8,Single,1,3
+19,Female,Engineer,Mexico,5,TikTok,0,6,1,In a relationship,4,4
+15,Male,Secundaria,Mexico,5,Twitter,0,7,2,Single,6,5
+21,Male,Engineer,Mexico,4,TikTok,1,3,7,Single,6,8
+13,Female,Secundaria,Mexico,6,Instagram,0,3,7,Single,8,7
+20,Female,Engineer,Mexico,2,TikTok,1,4,7,Single,4,3
+21,Female,Engineer,Mexico,2,YouTube,1,6,8,In a relationship,1,1
+21,Male,Engineer,Mexico,1,YouTube,1,6,7,In a relationship,3,4
+13,Male,Secundaria,Mexico,5,Twitter,0,8,6,Complicated,1,6
+19,Male,Engineer,Mexico,2,YouTube,0,6,9,In a relationship,4,9
+21,Female,Engineer,Mexico,5,YouTube,0,5,4,Single,8,4
+19,Female,Engineer,Mexico,7,Facebook,0,3,4,Complicated,6,8
+19,Female,Engineer,Mexico,4,Twitter,1,6,5,Complicated,8,5
+16,Female,Preparatory,Mexico,6,TikTok,0,9,7,Single,8,2
+21,Male,Engineer,Mexico,3,YouTube,1,9,10,Complicated,6,3
+21,Female,Engineer,Mexico,7,YouTube,0,5,5,Single,9,3
+21,Female,Engineer,Mexico,3,YouTube,1,8,9,Single,5,9
+21,Male,Engineer,Mexico,4,TikTok,0,8,5,Complicated,3,7
+21,Male,Engineer,Mexico,6,TikTok,0,9,6,Single,8,2
+21,Female,Engineer,Mexico,2,TikTok,1,7,5,Single,6,6
+19,Male,Engineer,Mexico,4,TikTok,0,6,4,Single,6,2
+20,Female,Engineer,Mexico,8,Facebook,1,7,3,Single,8,6
+21,Male,Engineer,Mexico,1,YouTube,0,8,6,In a relationship,0,1
+19,Male,Engineer,Mexico,4,Twitter,0,8,7,Complicated,7,9
+15,Female,Secundaria,Mexico,1,TikTok,1,6,9,Single,9,8
+25,Male,Engineer,Mexico,6,Facebook,1,8,1,Single,6,6
+18,Female,Engineer,Mexico,6,TikTok,1,6,5,Single,2,2
+21,Female,Engineer,Mexico,1,Instagram,1,5,4,Single,7,7
+20,Female,Engineer,Mexico,3,Instagram,1,6,1,Single,2,3
+21,Male,Engineer,Mexico,4,TikTok,1,6,2,Single,4,2
+15,Male,Secundaria,Mexico,4,TikTok,1,8,1,Single,8,3
+13,Female,Secundaria,Mexico,4,Instagram,0,9,2,Single,5,8
+21,Male,Engineer,Mexico,3,Facebook,0,7,2,Single,2,8
+20,Male,Engineer,Mexico,3,Facebook,0,9,1,Single,4,4
+20,Female,Engineer,Mexico,2,YouTube,1,6,8,Single,2,6
+21,Male,Engineer,Mexico,5,TikTok,0,7,7,Single,8,5
+16,Male,Preparatory,Mexico,5,TikTok,0,8,4,Complicated,3,4
+21,Male,Engineer,Mexico,3,Facebook,1,8,3,Complicated,9,8
+21,Female,Engineer,Mexico,8,Facebook,0,7,1,In a relationship,3,9
+17,Male,Preparatory,Mexico,2,TikTok,0,6,6,Complicated,7,8
+19,Male,Engineer,Mexico,5,Instagram,0,9,2,In a relationship,4,4
+21,Female,Engineer,Mexico,1,Instagram,1,9,4,Single,4,8
+20,Female,Engineer,Mexico,6,TikTok,0,7,6,Single,5,8
+19,Male,Engineer,Mexico,7,YouTube,1,4,2,Single,5,2
+21,Female,Engineer,Mexico,2,TikTok,1,8,3,Single,8,3
+14,Female,Secundaria,Mexico,4,YouTube,1,8,6,Single,2,3
+19,Male,Engineer,Mexico,4,Facebook,1,10,8,Single,3,9
+21,Female,Engineer,Mexico,2,Instagram,0,8,5,Complicated,3,8
+16,Female,Preparatory,Mexico,4,Instagram,0,7,6,In a relationship,5,1
+21,Male,University Higher Technician,Mexico,6,YouTube,0,5,6,Single,0,5
+20,Male,University Higher Technician,Mexico,6,Instagram,0,11,8,In a relationship,1,5
+20,Male,University Higher Technician,Mexico,5,TikTok,0,4,10,Single,2,2
+21,Male,University Higher Technician,Mexico,4,TikTok,0,8,7,Single,1,6
+20,Male,University Higher Technician,Mexico,2,Instagram,0,7,3,In a relationship,1,1
+21,Other,Engineer,Guatemala,10,Instagram,0,4,1,In a relationship,1,8
+30,Female,Preparatory,Mexico,3,Facebook,0,0,8,Married,1,4
+24,Male,University Higher Technician,Colombia,7,Otra,1,7,7,Complicado,1,6
+16,Female,Secondary,Mexico,0,Facebook,0,0,8,Single,1,0
+19,Male,University Higher Technician,Colombia,18,Discord,0,6,5,Single,0,8
+47,Male,Secondary,Mexico,6,Facebook,0,7,7,Married,0,6
+25,Male,University Higher Technician,Ecuador,5,YouTube,0,5,5,Single,0,5
+20,Female,Preparatory,Mexico,3,TikTok,0,8,10,In a relationship,0,3
+9,Male,Primaria,Mexico,1,TikTok,0,9,10,Single,0,10
+35,Male,Graduate,Mexico,6,WhatsApp,0,7,10,Single,0,4
+17,Female,Preparatory,Mexico,6,TikTok,0,9,10,Single,3,8
+20,Male,University Higher Technician,Mexico,1,YouTube,1,7,4,In a relationship,2,3
+20,Female,University Higher Technician,Mexico,3,Instagram,1,10,7,In a relationship,0,8
+31,Female,Secondary,Mexico,6,Facebook,1,7,8,Married,0,7
+28,Male,Engineer,Mexico,3,Facebook,0,7,8,In a relationship,0,7
+28,Male,Engineer,Mexico,3,Facebook,0,7,8,In a relationship,0,7
+23,Male,University Higher Technician,Colombia,1,Discord,0,8,10,Complicado,2,1
+36,Female,Graduate,Mexico,3,Facebook,0,7,10,Married,0,5
+35,Male,Graduate,Mexico,8,WhatsApp,1,5,7,Single,5,10
+17,Female,Preparatory,Mexico,4,TikTok,0,7,10,Single,3,3
+17,Female,Preparatory,Mexico,4,TikTok,0,7,10,Single,3,3
+20,Female,Preparatory,Mexico,10,Facebook,0,9,8,Single,1,7
+20,Male,Preparatory,Mexico,5,TikTok,0,5,5,In a relationship,4,10
+10,Male,University Higher Technician,Brasil,0,WhatsApp,0,10,10,In a relationship,5,10
+33,Female,Graduate,Mexico,5,TikTok,0,8,10,Married,1,7
+40,Female,University Higher Technician,Mexico,3,WhatsApp,0,7,10,Married,0,4
+22,Male,Preparatory,Peru,3,Twitter,0,6,6,Single,0,7
+19,Female,Secondary,Mexico,5,WhatsApp,0,8,8,Complicado,2,3
+39,Female,Graduate,Mexico,5,Facebook,0,9,9,Married,0,5
+21,Male,Preparatory,Peru,6,TikTok,0,7,7,Single,1,4
+21,Male,University Higher Technician,Mexico,2,TikTok,1,8,9,In a relationship,0,3
+21,Male,University Higher Technician,Mexico,2,TikTok,1,8,9,In a relationship,0,3
+20,Male,Engineer,Mexico,3,TikTok,1,5,9,Single,3,5
+20,Male,Engineer,Mexico,3,TikTok,1,5,9,Single,3,5
+40,Female,Preparatory,Mexico,10,WhatsApp,0,8,10,Married,0,6
+20,Male,University Higher Technician,Mexico,5,TikTok,0,8,10,Single,1,5
+23,Male,University Higher Technician,Mexico,7,Facebook,0,7,10,In a relationship,1,10
+52,Female,Secondary,Mexico,3,Facebook,0,7,8,Married,0,3
+21,Female,Graduate,Mexico,6,WhatsApp,0,10,7,In a relationship,0,5
+21,Female,Graduate,Mexico,6,WhatsApp,0,10,7,In a relationship,0,5
+21,Female,Graduate,Mexico,10,TikTok,0,10,7,In a relationship,0,7
+20,Female,Graduate,Mexico,4,TikTok,1,8,9,Single,0,6
+20,Female,Graduate,Mexico,4,TikTok,1,8,9,Single,0,6
+19,Male,Preparatory,Mexico,5,TikTok,0,8,7,Single,0,6
+20,Female,University Higher Technician,Mexico,4,TikTok,0,8,7,Single,0,3
+20,Female,University Higher Technician,Mexico,4,TikTok,0,8,7,Single,0,3
+22,Male,Graduate,Mexico,3,YouTube,0,7,7,Single,2,6
+20,Female,Graduate,Mexico,4,TikTok,0,7,7,Single,0,8
+22,Female,Graduate,Mexico,4,Instagram,0,7,4,Single,3,8
+20,Female,Graduate,Mexico,5,TikTok,0,6,4,Single,2,6
+20,Female,Graduate,Mexico,5,TikTok,0,5,4,Single,2,4
+22,Male,Graduate,Mexico,5,TikTok,0,4,8,Complicado,0,3
+18,Female,Preparatory,Mexico,3,Facebook,0,10,10,Single,0,2
+56,Male,Preparatory,Mexico,6,TikTok,0,5,7,Married,0,5
+56,Female,University Higher Technician,Mexico,3,Facebook,0,7,9,Married,0,2
+24,Female,Secondary,Mexico,5,Facebook,0,9,9,Married,0,5
+65,Female,Secondary,Mexico,4,Facebook,0,7,8,Single,1,4
+35,Male,Preparatory,Mexico,4,Facebook,0,8,10,Married,1,1
+37,Female,Graduate,Mexico,5,WhatsApp,0,8,10,Single,0,1
+26,Female,University Higher Technician,Mexico,3,YouTube,0,6,10,Single,0,2
+17,Female,Preparatory,Mexico,4,TikTok,0,5,7,In a relationship,2,2
+12,Male,Secondary,Mexico,2,TikTok,0,8,9,Single,0,5
+38,Female,Preparatory,Mexico,5,Facebook,1,8,3,Complicado,5,3
+35,Male,Preparatory,Mexico,7,Facebook,0,7,10,Married,1,5
+29,Male,Graduate,Mexico,15,Facebook,0,7,8,Married,0,8
+52,Female,Graduate,Mexico,1,WhatsApp,0,8,10,Married,0,1
+22,Female,Graduate,Mexico,4,WhatsApp,0,7,9,In a relationship,0,6
+20,Female,University Higher Technician,Mexico,4,TikTok,0,4,3,Single,2,3
+59,Female,Preparatory,Mexico,1,WhatsApp,0,8,9,Married,1,2
+23,Male,Secondary,Mexico,2,Facebook,0,6,10,Married,5,9
+17,Male,Preparatory,Mexico,4,TikTok,0,6,6,Single,0,5
+55,Female,Secondary,Mexico,1,YouTube,0,7,9,Married,1,1
+19,Male,Preparatory,Mexico,4,WhatsApp,0,8,10,In a relationship,0,5
+21,Female,University Higher Technician,Mexico,5,TikTok,0,7,3,Single,0,7
+21,Female,Graduate,Mexico,2,TikTok,0,4,5,Single,0,8
+21,Male,Preparatory,Mexico,4,TikTok,0,7,8,In a relationship,0,5
+10,Male,Engineer,Mexico,5,Facebook,1,10,10,Single,0,10
+39,Female,Secondary,Mexico,10,Facebook,0,6,10,In a relationship,0,3
+18,Other,Preparatory,Mexico,4,TikTok,0,8,8,In a relationship,2,6
+37,Female,Secondary,Mexico,7,WhatsApp,0,8,10,Married,0,5
+20,Female,University Higher Technician,Mexico,6,TikTok,0,6,10,Complicado,2,8
+18,Male,Preparatory,Mexico,7,TikTok,0,7,8,In a relationship,5,4
+22,Female,University Higher Technician,Mexico,7,Instagram,0,6,7,Single,3,8
+15,Male,Secondary,Mexico,3,WhatsApp,0,8,9,In a relationship,4,7
+20,Male,University Higher Technician,Mexico,3,TikTok,0,8,8,Complicado,3,5
+30,Male,Graduate,Mexico,8,LinkedIn,0,7,10,Married,2,5
+15,Male,Secondary,Mexico,3,TikTok,0,8,8,Single,2,4
+27,Female,Engineer,Mexico,4,WhatsApp,0,6,8,In a relationship,3,5
+16,Female,Preparatory,Mexico,6,TikTok,0,8,8,Single,2,7
+20,Male,University Higher Technician,Mexico,5,Instagram,0,8,10,In a relationship,3,6
+10,Male,Primaria,Mexico,6,YouTube,0,8,9,Single,0,5
+15,Male,Secondary,Mexico,5,YouTube,0,6,9,Single,0,6
+9,Female,Primaria,Mexico,6,TikTok,0,7,8,Single,0,7
+20,Female,University Higher Technician,Mexico,4,TikTok,0,7,8,In a relationship,3,5
+52,Male,Preparatory,Mexico,4,Facebook,0,6,8,Married,0,6
+40,Male,Engineer,Mexico,5,Discord,0,5,7,In a relationship,0,5
+16,Female,Preparatory,Mexico,5,TikTok,0,8,10,In a relationship,5,5
+17,Female,Preparatory,Mexico,3,TikTok,0,7,8,In a relationship,3,4
+18,Female,Preparatory,Mexico,7,Instagram,0,8,9,Single,0,9
+22,Male,Graduate,Mexico,8,whatsapp,0,7,7,In a relationship,0,7
+21,Female,Graduate,Mexico,5,tiktok,0,7,7,Single,2,7
+20,Male,Graduate,Mexico,4,tiktok,0,7,7,Complicado,0,7
+20,Male,Graduate,Mexico,10,tiktok,10,11,8,In a relationship,0,7
+22,Male,Graduate,Mexico,6,tiktok,10,6,7,Complicado,0,7
+22,Male,Graduate,Mexico,6,tiktok,10,6,7,Complicado,0,7
+21,Male,Graduate,Mexico,3,tiktok,0,7,7,Single,2,7
+22,Male,Graduate,Mexico,5,tiktok,0,6,7,Single,0,7
+21,Male,Graduate,Mexico,4,tiktok,0,6,7,Single,0,7
+22,Male,Secondary,Mexico,4,instagram,10,7,7,Single,3,6
+21,Male,Graduate,Mexico,5,instagram,0,4,7,Single,0,7
+21,Male,Graduate,Mexico,3,tiktok,0,7,7,Complicado,0,7
+21,Female,Graduate,Mexico,11,instagram,10,13,8,In a relationship,6,8
+20,Male,Graduate,Mexico,9,instagram,10,6,7,Single,4,8
+21,Female,Secondary,Mexico,10,tiktok,10,9,8,Complicado,3,7
+20,Male,Graduate,Mexico,7,instagram,0,7,7,Single,0,7
+23,Male,Secondary,Mexico,3,tiktok,0,9,7,Single,0,7
+21,Female,Graduate,Mexico,6,facebook,10,6,7,In a relationship,0,7
+20,Male,Graduate,Mexico,6,twitter,10,6,7,Single,0,7
+16,Male,Secondary,Mexico,3,whatsapp,0,7,7,Single,2,7
+21,Female,Graduate,Mexico,4,whatsapp,0,7,7,Single,0,7
+35,Male,Graduate,Armenia,6,whatsapp,10,7,7,In a relationship,3,7
+32,Male,Secondary,Mexico,0,tiktok,0,7,7,In a relationship,1,7
+20,Male,Graduate,Mexico,3,instagram,0,7,7,Single,0,7
+22,Male,Graduate,Mexico,4,youtube,0,6,7,In a relationship,2,7
+21,Female,Graduate,Mexico,10,instagram,10,6,7,In a relationship,3,7
+21,Female,Graduate,Mexico,10,instagram,10,6,7,In a relationship,3,7
+21,Male,Graduate,Mexico,9,tiktok,10,2,7,Single,0,7
+21,Female,Graduate,Mexico,9,tiktok,10,13,8,In a relationship,3,7
+19,Male,Secondary,Mexico,7,instagram,0,7,7,In a relationship,1,7
+21,Male,Graduate,Vietnam,5,instagram,0,7,7,Single,0,7
+24,Male,Secondary,Mexico,4,youtube,0,6,7,Single,2,7
+20,Male,Graduate,Mexico,5,tiktok,0,7,7,Single,0,7
+20,Female,Graduate,Mexico,17,tiktok,10,13,8,Single,8,8
+21,Female,Graduate,Mexico,2,instagram,10,8,8,Single,3,7
+13,Female,Secondary,Mexico,0,tiktok,10,8,7,Single,6,8
+13,Female,Secondary,Mexico,1,tiktok,10,8,7,Single,6,8
+20,Female,Graduate,Mexico,4,instagram,0,8,8,In a relationship,0,7
+26,Female,Secondary,Mexico,10,whatsapp,10,6,7,Single,3,7
+21,Female,Secondary,Mexico,3,whatsapp,0,6,7,In a relationship,0,7
+20,Female,Secondary,Mexico,8,instagram,10,7,7,Single,4,8
+21,Male,Secondary,Mexico,6,tiktok,0,7,7,In a relationship,0,7
+31,Female,Secondary,Mexico,24,whatsapp,10,5,7,Single,3,7
+10,Male,Secondary,Mexico,3,youtube,0,3,7,Single,1,7
+23,Male,Secondary,Mexico,8,tiktok,0,7,7,Single,0,7
+21,Female,Secondary,Mexico,10,whatsapp,0,9,7,Single,0,7
+35,Female,Secondary,Mexico,5,facebook,0,11,8,In a relationship,0,7
+27,Male,Secondary,Mexico,24,instagram,10,24,8,Complicado,10,8
+35,Female,Secondary,Mexico,0,facebook,0,11,8,In a relationship,0,7
+27,Male,Secondary,Mexico,14,instagram,0,24,8,Complicado,2,7
+30,Female,Secondary,Mexico,5,tiktok,0,7,7,In a relationship,0,7
+33,Female,Graduate,Mexico,24,whatsapp,0,10,7,In a relationship,0,7
+33,Female,Graduate,Mexico,15,whatsapp,0,9,7,Single,0,7
+69,Female,Secondary,Mexico,5,whatsapp,0,7,7,In a relationship,0,7
+56,Male,Secondary,Mexico,1,facebook,0,7,7,In a relationship,2,7
+31,Male,Graduate,Mexico,3,facebook,0,6,7,In a relationship,0,7
+54,Female,Secondary,Mexico,5,whatsapp,0,6,7,In a relationship,0,7
+69,Female,Secondary,Mexico,5,whatsapp,0,7,7,In a relationship,0,7
+37,Female,Graduate,México,24,whatsapp,10,24,7,In a relationship,10,8
+37,Female,Graduate,México,24,whatsapp,10,24,7,In a relationship,10,8
+44,Female,Graduate,Mexico,2,whatsapp,0,6,7,Single,0,7
+51,Male,Secondary,Mexico,0,youtube,0,0,7,In a relationship,0,7
+20,Female,Graduate,Mexico,4,instagram,0,5,7,Single,1,7
+18,Male,Secondary,Mexico,6,instagram,0,7,7,Single,0,7
+37,Female,Graduate,México,3,facebook,0,6,7,In a relationship,0,7
+53,Male,Graduate,Mexico,0,whatsapp,0,5,7,In a relationship,0,7
+42,Female,Secondary,México,3,tiktok,0,8,8,Single,0,7
+33,Female,Graduate,Mexico,4,whatsapp,0,8,7,In a relationship,0,7
+20,Male,Graduate,México,5,youtube,10,6,7,In a relationship,1,7
+38,Male,Graduate,México,9,tiktok,10,6,7,In a relationship,0,7
+21,Female,Graduate,México,6,instagram,0,8,8,Single,0,7
+34,Female,Secondary,Mexico,13,whatsapp,10,6,7,In a relationship,0,7
+20,Female,Secondary,Mexico,5,whatsapp,10,6,7,Complicado,2,7
+19,Male,Secondary,Mexico,5,youtube,0,7,7,Single,0,7
+37,Female,Graduate,México,2,whatsapp,0,8,7,In a relationship,0,7
+44,Female,Secondary,México,3,whatsapp,0,13,7,Complicado,0,7
+25,Male,Graduate,Mexico,2,whatsapp,0,8,7,Single,0,7
+21,Female,Graduate,Mexico,4,tiktok,0,6,7,In a relationship,0,7
+20,Female,Graduate,Mexico,3,instagram,10,10,8,In a relationship,4,8
+63,Female,Secondary,México,2,facebook,10,5,7,Single,5,8
+26,Male,Secondary,Mexico,2,instagram,0,9,8,Single,1,8
+41,Male,Graduate,México,12,facebook,10,23,8,Single,4,7
+45,Female,Graduate,Mexico,4,whatsapp,0,8,7,In a relationship,0,7
+60,Female,Secondary,Mexico,2,facebook,0,7,7,In a relationship,0,7
+52,Female,Secondary,Mexico,2,whatsapp,0,7,7,In a relationship,1,7
+21,Female,Secondary,México,12,whatsapp,10,8,7,Single,0,7
+35,Female,Graduate,Mexico,1,facebook,0,6,7,In a relationship,1,7
+48,Female,Graduate,Mexico,2,whatsapp,0,8,7,In a relationship,0,7
+21,Female,Secondary,México,5,whatsapp,0,8,7,Single,0,7
+21,Female,Secondary,México,0,whatsapp,0,8,7,Single,0,7
+38,Female,Secondary,Mexico,14,whatsapp,10,4,7,In a relationship,0,7
+16,Female,Secondary,Mexico,1,whatsapp,0,8,7,Single,0,7
+35,Female,Graduate,México,4,facebook,0,7,7,In a relationship,0,7
+20,Female,Secondary,México,4,tiktok,0,6,7,Single,1,7
+38,Female,Secondary,Mexico,4,facebook,0,9,8,In a relationship,0,7
+48,Female,Graduate,Mexico,3,facebook,0,8,8,In a relationship,0,7
+20,Female,Secondary,Mexico,6,youtube,0,8,7,In a relationship,0,7
+20,Female,Secondary,Mexico,6,youtube,0,8,7,In a relationship,0,7
+48,Male,Graduate,México,3,facebook,0,10,8,In a relationship,0,7
+44,Female,Secondary,Mexico,2,tiktok,0,7,7,In a relationship,1,7
+44,Female,Secondary,Mexico,2,tiktok,0,7,7,In a relationship,1,7
+41,Male,Graduate,México,4,whatsapp,0,7,7,In a relationship,0,7
+20,Male,Graduate,Mexico,3,instagram,10,4,7,Single,3,7
+32,Male,Graduate,Mexico,5,whatsapp,0,0,7,Single,0,7
+45,Male,Secondary,México,5,whatsapp,10,1,7,In a relationship,5,8
+21,Female,Graduate,Mexico,5,tiktok,0,7,7,Single,0,7
+17,Female,Secondary,México,24,tiktok,10,6,7,In a relationship,0,7
+30,Female,Secondary,Mexico,3,facebook,0,7,7,Single,0,7
+42,Female,Graduate,México,2,facebook,0,4,7,In a relationship,0,7
+33,Female,Secondary,Mexico,3,whatsapp,10,7,7,Single,4,8
+23,Male,Graduate,Mexico,4,youtube,0,9,7,In a relationship,0,7
+35,Male,Graduate,México,2,youtube,0,6,7,In a relationship,0,7
+20,Male,Graduate,Mexico,5,facebook,0,7,7,In a relationship,0,7
+49,Female,Secondary,Mexico,13,whatsapp,10,0,7,Single,0,7
+40,Female,Graduate,México,3,tiktok,0,8,8,In a relationship,1,7
+31,Female,Secondary,Mexico,5,whatsapp,10,5,7,In a relationship,2,7
+35,Male,Secondary,Mexico,10,instagram,10,8,8,In a relationship,4,8
+21,Female,Graduate,México,8,tiktok,0,7,7,Single,0,7
+21,Female,Graduate,México,8,tiktok,0,7,7,Single,0,7
+66,Female,Secondary,Mexico,6,whatsapp,0,9,7,In a relationship,0,7
+19,Female,Graduate,Peru,5,tiktok,10,6,7,Single,1,7
+33,Female,Graduate,Mexico,11,facebook,0,22,8,In a relationship,0,7
+22,Male,Secondary,México,6,twitter,10,6,7,Single,0,7
+33,Female,Secondary,México,10,whatsapp,10,7,7,In a relationship,4,8
+23,Female,Secondary,Vietnam,11,tiktok,10,17,7,In a relationship,7,8
+41,Female,Secondary,Mexico,2,tiktok,10,7,7,In a relationship,3,7
+30,Male,Graduate,México,8,Instagram,0,6,49,Complicated,1,63
+25,Male,Preparatory,México,7,Twitter,0,4,6,Complicated,0,36
+26,F,Secondary,México,1,Twitter,0,8,31,Married,0,70
+30,Male,Preparatory,México,5,YouTube,0,7,36,Single,1,10
+25,Male,Preparatory,México,1,Snapchat,0,7,26,Complicated,0,91
+25,F,Secondary,México,5,Twitter,0,6,75,Complicated,0,29
+30,Male,Mastery,México,7,TikTok,0,4,36,Married,0,8
+28,Male,Graduate,México,9,Snapchat,0,6,48,Complicated,1,46
+20,Male,Doctorate,México,6,Snapchat,0,4,61,Complicated,0,6
+21,Male,Mastery,México,5,Instagram,0,8,6,Complicated,0,94
+22,F,Secondary,México,4,Facebook,0,8,98,Single,1,26
+21,F,Doctorate,México,7,Facebook,0,4,26,Complicated,0,94
+20,Male,Graduate,México,2,Instagram,0,4,2,Complicated,1,79
+23,F,Doctorate,México,8,Instagram,0,7,98,Complicated,1,60
+23,Male,Doctorate,México,9,TikTok,0,6,84,In a relationshipn,0,90
+25,Male,Secondary,México,3,TikTok,0,5,14,Married,1,98
+17,Male,Doctorate,México,3,Twitter,0,5,68,Married,0,94
+23,Male,Graduate,México,10,TikTok,0,5,57,In a relationshipn,0,59
+27,Male,Mastery,México,7,Facebook,0,4,88,In a relationshipn,1,17
+30,Female,Preparatory,México,2,Facebook,0,6,40,Complicated,1,54
+19,Female,Mastery,México,2,Facebook,0,5,4,Married,0,12
+18,Male,Doctorate,México,4,Twitter,0,8,51,Complicated,0,22
+24,Male,Doctorate,México,9,Instagram,0,6,39,In a relationshipn,0,44
+21,Male,Graduate,México,6,TikTok,0,8,53,Married,0,68
+23,Female,Mastery,México,6,YouTube,0,7,73,Married,1,51
+19,Female,Secondary,México,1,Instagram,0,4,65,Complicated,0,34
+25,Male,Mastery,México,6,YouTube,0,8,39,Complicated,0,73
+26,Male,Doctorate,México,5,Twitter,0,8,67,Complicated,1,28
+20,Female,Graduate,México,3,Facebook,0,7,40,In a relationshipn,0,19
+23,Female,Preparatory,México,7,TikTok,0,7,89,Married,1,86
+22,Female,Secondary,México,3,Snapchat,0,6,43,Married,0,95
+23,Male,Mastery,México,3,Instagram,0,6,49,In a relationshipn,1,55
+21,Female,Doctorate,México,5,Twitter,0,7,74,Married,0,7
+29,Male,Mastery,México,7,Twitter,0,8,96,Married,1,37
+22,Male,Preparatory,México,2,YouTube,0,8,81,Single,1,90
+30,Male,Preparatory,México,9,Facebook,0,4,63,Complicated,0,40
+19,Male,Mastery,México,9,Twitter,0,8,59,In a relationshipn,0,1
+25,Male,Doctorate,México,2,Snapchat,0,8,59,Complicated,1,75
+25,Male,Mastery,México,4,TikTok,0,5,49,In a relationshipn,0,49
+24,Male,Preparatory,México,8,YouTube,0,6,10,Single,1,49
+24,Male,Doctorate,México,2,TikTok,0,7,47,Single,1,96
+21,Male,Doctorate,México,8,Instagram,0,8,52,Married,0,31
+24,Female,Preparatory,México,8,YouTube,0,8,8,In a relationshipn,0,65
+29,Female,Doctorate,México,9,Facebook,0,8,90,Married,0,91
+20,Male,Preparatory,México,2,TikTok,0,4,8,Complicated,1,34
+22,Male,Secondary,México,9,Twitter,0,6,3,In a relationshipn,1,17
+27,Male,Preparatory,México,9,Twitter,0,7,24,Married,0,1
+20,Female,Mastery,México,4,Twitter,0,6,91,Married,0,81
+23,Female,Graduate,México,6,TikTok,0,6,78,Complicated,0,12
+24,Male,Preparatory,México,3,Facebook,0,7,9,Married,1,22
+22,Male,Doctorate,México,9,Instagram,0,6,31,Single,0,63
+23,Female,Doctorate,México,7,YouTube,0,4,9,In a relationshipn,0,55
+29,Female,Graduate,México,5,TikTok,0,4,60,Single,1,36
+24,Female,Doctorate,México,1,Instagram,0,6,89,Single,1,14
+23,Male,Mastery,México,9,YouTube,0,6,27,Complicated,0,64
+17,Female,Doctorate,México,7,Facebook,0,8,21,In a relationshipn,0,89
+26,Male,Secondary,México,9,Snapchat,0,4,75,In a relationshipn,0,33
+24,Male,Doctorate,México,1,Facebook,0,6,90,Single,1,50
+30,Male,Graduate,México,10,Instagram,0,8,67,Single,0,6
+21,Male,Graduate,México,8,YouTube,0,6,36,In a relationshipn,1,18
+22,Male,Doctorate,México,4,Instagram,0,6,61,Married,1,15
+18,Male,Graduate,México,1,Twitter,0,5,87,In a relationshipn,0,4
+27,Male,Graduate,México,7,Facebook,0,7,36,Married,1,14
+29,Male,Mastery,México,5,Instagram,0,7,97,Single,1,77
+25,Male,Graduate,México,2,Facebook,0,4,24,In a relationshipn,0,24
+30,Female,Mastery,México,4,Instagram,0,6,34,Single,0,17
+18,Female,Mastery,México,2,Snapchat,0,5,17,Complicated,0,97
+30,Male,Secondary,México,4,YouTube,0,4,89,In a relationshipn,1,51
+22,Male,Preparatory,México,4,Facebook,0,5,83,Married,0,65
+27,Male,Doctorate,México,4,TikTok,0,6,53,Married,0,25
+20,Female,Doctorate,México,9,Facebook,0,8,44,In a relationshipn,0,67
+28,Female,Secondary,México,7,Twitter,0,8,18,Married,0,9
+19,Male,Preparatory,México,2,Snapchat,0,8,42,In a relationshipn,1,38
+26,Male,Preparatory,México,3,Twitter,0,8,95,In a relationshipn,0,25
+21,Female,Doctorate,México,1,Facebook,0,8,67,In a relationshipn,0,68
+23,Female,Doctorate,México,1,Snapchat,0,7,98,Married,1,21
+18,Female,Preparatory,México,6,YouTube,0,4,52,In a relationshipn,0,23
+27,Male,Graduate,México,1,Instagram,0,6,71,In a relationshipn,0,76
+21,Female,Preparatory,México,9,TikTok,0,5,8,Single,0,37
+24,Male,Graduate,México,8,Snapchat,0,4,29,Single,0,64
+23,Male,Secondary,México,8,Snapchat,0,8,19,In a relationshipn,0,78
+18,Male,Doctorate,México,7,YouTube,0,6,42,In a relationshipn,0,61
+20,Male,Secondary,México,8,Twitter,0,5,69,In a relationshipn,0,72
+29,Male,Graduate,México,8,TikTok,0,4,16,Complicated,0,52
+27,Male,Mastery,México,9,TikTok,0,4,69,Complicated,0,86
+17,Male,Graduate,México,4,TikTok,0,7,3,Complicated,1,87
+21,Male,Secondary,México,9,YouTube,0,8,88,Complicated,1,74
+18,Male,Graduate,México,5,Twitter,0,8,80,Complicated,0,42
+23,Female,Doctorate,México,6,Twitter,0,6,46,Married,0,94
+21,Female,Mastery,México,8,Snapchat,0,4,68,In a relationshipn,0,41
+23,Male,Preparatory,México,8,Snapchat,0,7,85,In a relationshipn,0,57
+28,Male,Preparatory,México,4,Facebook,0,5,36,Single,1,4
+20,Male,Doctorate,México,6,Instagram,0,8,6,In a relationshipn,0,67
+26,Female,Graduate,México,4,YouTube,0,5,57,Complicated,1,31
+21,Female,Preparatory,México,5,TikTok,0,7,19,In a relationshipn,0,37
+27,Male,Preparatory,México,8,TikTok,0,6,10,Single,0,89
+29,Male,Preparatory,México,2,Snapchat,0,4,95,In a relationshipn,0,39
+27,Female,Graduate,México,4,Twitter,0,8,33,In a relationshipn,0,10
+17,Female,Secondary,México,4,Facebook,0,4,80,In a relationshipn,0,25
+23,Female,Doctorate,México,2,Instagram,0,8,39,Single,0,55
+21,Male,Graduate,Brazil,3,TikTok,0,7,0,In a relationship,0,79
+25,Female,Graduate,Brazil,5,YouTube,0,6,0,Single,0,0
+22,Male,Graduate,Brazil,2,Twitter,0,6,0,Single,0,0
+24,Male,Graduate,Mexico,3,TikTok,0,7,0,In a relationship,0,0
+24,Male,Graduate,Mexico,2,TikTok,0,8,0,In a relationship,0,0
+21,Male,Graduate,Mexico,3,TikTok,0,10,0,In a relationship,0,0
+23,Male,Graduate,Mexico,4,Twitter,0,5,0,In a relationship,0,0
+20,Male,Graduate,Brazil,8,TikTok,0,6,0,Single,0,0
+22,Male,Graduate,Mexico,4,Instagram,0,5,0,Complicado,0,0
+17,Male,Graduate,Mexico,8,TikTok,0,8,0,Single,0,0
+19,Male,Graduate,Mexico,3,TikTok,0,5,0,Complicado,0,0
+20,Male,Graduate,Mexico,6,TikTok,0,7,0,Single,0,0
+19,Female,Graduate,Mexico,7,TikTok,0,5,0,In a relationship,0,0
+21,Male,Graduate,Mexico,5,YouTube,0,7,0,Single,0,0
+19,Female,Graduate,Mexico,5,TikTok,0,7,0,In a relationship,0,0
+21,Female,Graduate,Mexico,6,TikTok,0,5,0,In a relationship,0,0
+24,Female,Graduate,Mexico,3,TikTok,0,7,0,In a relationship,0,0
+27,Male,Graduate,Mexico,6,WhatsApp,0,6,0,In a relationship,0,0
+23,Male,Secondary,Mexico,4,TikTok,0,8,0,Single,0,0
+20,Female,Graduate,Mexico,3,Twitter,0,6,0,In a relationship,0,0
+21,Male,Graduate,Mexico,4,YouTube,0,7,0,Single,0,0
+21,Male,Graduate,Mexico,3,TikTok,0,7,0,Single,0,0
+24,Female,Graduate,Mexico,3,Facebook,0,4,0,Complicado,0,0
+20,Female,Graduate,Mexico,7,TikTok,0,6,0,Complicado,0,0
+19,Female,Secondary,Mexico,3,WhatsApp,0,6,0,In a relationship,0,0
+20,Female,Graduate,Mexico,3,TikTok,0,5,0,Single,0,0
+24,Female,Graduate,Mexico,6,Instagram,0,7,0,Single,0,0
+16,Female,Secondary,Argentina,5,Instagram,0,12,0,In a relationship,0,0
+20,Female,Graduate,Mexico,1,TikTok,0,8,0,In a relationship,0,0
+21,Female,Graduate,Mexico,7,YouTube,0,6,0,In a relationship,0,0
+24,Female,Graduate,Mexico,5,WhatsApp,0,7,0,Complicado,0,0
+25,Male,Graduate,Mexico,2,Facebook,0,7,0,Single,0,0
+20,Female,Graduate,Mexico,8,TikTok,0,7,0,Single,0,0
+29,Male,Graduate,Mexico,3,WhatsApp,0,5,0,Complicado,0,0
+29,Female,Graduate,Mexico,9,WhatsApp,0,11,0,Single,0,0
+32,Male,Secondary,Mexico,3,TikTok,0,6,0,Single,0,0
+20,Female,Graduate,Mexico,3,TikTok,0,7,0,In a relationship,0,0
+21,Male,Graduate,Mexico,8,Instagram,0,7,0,Single,0,0
+22,Male,Graduate,India,4,YouTube,0,7,0,Single,0,0
+17,Female,Graduate,Mexico,6,TikTok,0,7,0,Single,0,0
+13,Male,Graduate,Mexico,3,TikTok,0,7,0,In a relationship,0,0
+21,Male,Graduate,Mexico,7,Instagram,0,8,0,In a relationship,0,0
+20,Male,Graduate,Mexico,5,TikTok,0,5,0,Single,0,0
+24,Female,Graduate,Mexico,5,Instagram,0,7,0,Single,0,0
+20,Female,Graduate,Mexico,4,Instagram,0,7,0,In a relationship,0,0
+20,Male,Graduate,Mexico,2,YouTube,0,7,0,Single,0,0
+23,Female,Graduate,Mexico,4,TikTok,0,7,0,In a relationship,0,0
+30,Male,Graduate,Mexico,4,WhatsApp,0,6,0,In a relationship,0,0
+15,Female,Secondary,Mexico,4,Twitter,0,6,0,Complicado,0,0
+22,Male,Graduate,Mexico,5,Instagram,0,7,0,Single,0,0
+23,Female,Graduate,Mexico,4,WhatsApp,0,6,0,Complicado,0,0
+20,Female,Graduate,Mexico,4,YouTube,0,7,0,In a relationship,0,0
+24,Female,Graduate,Mexico,5,YouTube,0,7,0,Single,0,0
+21,Female,Graduate,Mexico,5,Facebook,0,7,0,Single,0,0
+20,Male,Graduate,Canada,3,Twitter,0,6,0,Complicado,0,0
+19,Male,Graduate,Canada,5,LinkedIn,0,8,0,Single,0,0
+27,Male,Secondary,Mexico,2,WhatsApp,0,7,0,In a relationship,0,0
+19,Female,Graduate,Mexico,3,WhatsApp,0,6,0,In a relationship,0,0
+20,Male,Graduate,Mexico,5,Instagram,0,8,0,Single,0,0
+23,Male,Graduate,Mexico,3,TikTok,0,7,0,In a relationship,0,0
+24,Female,Graduate,Mexico,6,Facebook,0,9,0,Single,0,0
+22,Male,Graduate,Mexico,4,Instagram,0,8,0,Single,0,0
+21,Female,Graduate,Mexico,5,Instagram,0,7,0,Single,0,0
+30,Female,Graduate,Mexico,3,Facebook,0,8,0,In a relationship,0,0
+20,Female,Graduate,Mexico,6,Instagram,0,6,0,Single,0,0
+20,Female,Graduate,Mexico,4,Instagram,0,7,0,Complicado,0,0
+26,Female,Graduate,Mexico,5,Instagram,0,8,0,Single,0,0
+19,Male,Graduate,Mexico,6,Facebook,0,4,0,Single,0,0
+19,Female,Graduate,Mexico,4,WhatsApp,0,5,0,In a relationship,0,0
+17,Female,Graduate,Mexico,5,TikTok,0,5,0,In a relationship,0,0
+39,Female,Graduate,Mexico,3,Facebook,0,7,0,In a relationship,0,0
+18,Male,Secondary,Mexico,5,YouTube,0,7,0,Complicado,0,0
+20,Female,Secondary,Mexico,3,TikTok,0,9,0,In a relationship,0,0
+19,Male,Graduate,Mexico,3,TikTok,0,5,0,Single,0,0
+48,Female,Secondary,Mexico,3,Facebook,0,8,0,In a relationship,0,0
+30,Female,Graduate,Mexico,7,TikTok,0,8,0,Single,0,0
+25,Female,Graduate,Mexico,4,Twitter,0,8,0,Single,0,0
+15,Male,Secondary,Mexico,1,Instagram,0,5,0,Single,0,0
+17,Female,Graduate,Mexico,1,TikTok,0,11,0,Single,0,0
+22,Male,Graduate,Mexico,10,TikTok,0,8,0,In a relationship,0,0
+21,Female,Graduate,Mexico,5,Facebook,0,5,0,Single,0,0
+21,Female,Graduate,Mexico,3,Facebook,0,7,0,Single,0,0
+20,Female,Graduate,Mexico,8,Instagram,0,5,0,Single,0,0
+23,Female,Graduate,Mexico,3,Instagram,0,4,0,Single,0,0
+40,Female,Graduate,Mexico,7,WhatsApp,0,4,0,In a relationship,0,0
+19,Female,Graduate,Mexico,3,Instagram,0,5,0,In a relationship,0,0
+20,Male,Graduate,Mexico,6,WhatsApp,0,7,0,In a relationship,0,0
+20,Male,Graduate,Argentina,3,TikTok,0,7,0,Single,0,0
+20,Female,Graduate,Mexico,3,Twitter,0,5,0,In a relationship,0,0
+28,Female,Graduate,Chile,3,Instagram,0,6,0,In a relationship,0,0
+30,Female,Graduate,Mexico,3,Twitter,0,6,0,In a relationship,0,0
+18,Male,Secondary,Mexico,3,TikTok,0,7,0,Complicado,0,0
+15,Male,Secondary,Mexico,5,YouTube,0,6,0,Single,0,0
+25,Female,Graduate,Mexico,4,YouTube,0,6,0,Complicado,0,0
+21,Male,Graduate,Mexico,4,Twitter,0,5,0,Complicado,0,0
+45,Female,Graduate,Mexico,3,WhatsApp,0,7,0,Single,0,0
+33,Male,Graduate,Mexico,3,VKontakte,0,7,0,Single,0,0
+25,Female,Graduate,Mexico,4,Facebook,0,6,0,In a relationship,0,0
+32,Female,Graduate,Mexico,7,WhatsApp,0,6,0,Single,0,0
+25,Male,Graduate,Mexico,3,WhatsApp,0,7,0,In a relationship,0,0
+18,Female,Graduate,Mexico,3,TikTok,0,5,0,In a relationship,0,0
+20,Female,Secondary,Mexico,3,Facebook,0,7,0,Single,0,0
+38,Male,Graduate,Mexico,5,WhatsApp,0,7,0,Complicado,0,0
+25,Male,Graduate,Mexico,3,Instagram,0,7,0,In a relationship,0,0
+26,Male,Graduate,Mexico,3,Twitter,0,5,0,Single,0,0
+21,Male,Preparatory,Mexico,4,TikTok,0,6,0,Single,1,0
+27,Male,Graduate,Mexico,2,YouTube,0,7,0,In a relationshipn,0,0
+21,Female,Preparatory,Mexico,4,Instagram,0,5,0,Single,0,0
+21,Female,Preparatory,Mexico,4,Instagram,0,5,0,Single,0,0
+20,Male,Graduate,Mexico,5,WhatsApp,0,5,0,Single,0,0
+21,Male,Graduate,Mexico,4,Facebook,0,6,0,Single,0,0
+21,Male,Graduate,Mexico,2,YouTube,0,7,0,In a relationshipn,0,0
+21,Male,Graduate,Mexico,4,WhatsApp,0,7,0,Single,0,0
+20,Female,Preparatory,Mexico,3,TikTok,0,7,0,Single,0,0
+34,Male,Posgrado,Mexico,8,Instagram,0,8,0,In a relationshipn,0,0
+22,Male,Preparatory,Mexico,6,TikTok,0,5,0,Complicated,1,0
+21,Female,Graduate,Mexico,5,Instagram,0,7,0,In a relationshipn,2,0
+26,Male,Posgrado,Mexico,3,Facebook,0,6,0,Single,0,0
+21,Female,Graduate,Mexico,4,Facebook,0,6,0,Single,1,0
+21,Female,Preparatory,Mexico,7,Instagram,0,6,0,Complicated,5,0
+20,Male,Preparatory,Mexico,1,Facebook,0,7,0,In a relationshipn,0,0
+20,Female,Preparatory,Mexico,3,Instagram,0,6,0,Single,0,0
+20,Male,Graduate,Mexico,2,TikTok,0,8,0,Single,0,0
+22,Female,Preparatory,Mexico,4,TikTok,0,9,0,In a relationshipn,0,0
+24,Male,Graduate,Mexico,3,WhatsApp,0,6,0,Complicated,0,0
+21,Male,Preparatory,Mexico,5,TikTok,0,6,0,Single,0,0
+21,Male,Preparatory,Mexico,4,WhatsApp,0,7,0,Single,1,0
+24,Male,Preparatory,Mexico,8,TikTok,0,5,0,In a relationshipn,4,0
+21,Male,Preparatory,Mexico,6,WhatsApp,0,7,0,Complicated,0,0
+18,Male,Preparatory,Mexico,3,YouTube,0,7,0,Single,0,0
+25,Female,Preparatory,Mexico,2,WhatsApp,0,7,0,Single,1,0
+20,Male,Graduate,Mexico,4,LinkedIn,0,5,0,Single,0,0
+25,Female,Graduate,Mexico,1,TikTok,0,7,0,Single,0,0
+22,Male,Posgrado,Mexico,5,TikTok,0,6,0,Single,0,0
+20,Male,Graduate,Mexico,2,WhatsApp,0,7,0,In a relationshipn,0,0
+25,Male,Graduate,Mexico,1,Instagram,0,6,0,In a relationshipn,0,0
+21,Male,Graduate,Mexico,5,TikTok,0,4,0,Single,0,0
+17,Male,Preparatory,Mexico,5,Instagram,0,7,0,Single,0,0
+21,Male,Graduate,Mexico,5,TikTok,0,5,0,Single,0,0
+20,Male,Preparatory,Mexico,3,Instagram,0,7,0,Single,0,0
+22,Male,Preparatory,Bolivia,2,YouTube,0,8,0,In a relationshipn,1,0
+25,Male,Graduate,USA,3,Facebook,0,8,0,In a relationshipn,1,0
+21,Male,Graduate,Mexico,8,Instagram,0,7,0,Single,4,0
+21,Male,Preparatory,Mexico,2,TikTok,0,7,0,Single,1,0
+28,Male,Graduate,Austria,0,LINE,0,1,0,Single,0,0
+22,Male,Graduate,Mexico,4,TikTok,0,5,0,Complicated,0,0
+21,Male,Graduate,Mexico,3,WhatsApp,0,4,0,Single,0,0
+21,Male,Primaria,Afghanistan,3,Instagram,0,8,0,Single,0,0
+20,Male,Primaria,Afghanistan,2,Instagram,0,7,0,Single,1,0
+98,Male,Primaria,Bhutan,4,Instagram,0,6,0,Single,0,0
+21,Male,Graduate,Mexico,3,WhatsApp,0,6,0,Single,1,0
+21,Male,Preparatory,Mexico,2,TikTok,0,8,0,Single,0,0
+24,Female,Graduate,Mexico,4,TikTok,0,7,0,Single,5,0
+37,Female,Preparatory,Mexico,4,WhatsApp,0,6,0,In a relationshipn,0,0
+22,Female,Secondary,Ecuador,2,Instagram,0,7,0,Single,2,0
+23,Female,Graduate,Mexico,6,WhatsApp,0,5,0,Single,0,0
+25,Male,Graduate,Mexico,6,Facebook,0,7,0,Single,0,0
+25,Male,Graduate,Mexico,3,Facebook,0,7,0,Single,0,0
+21,Male,Graduate,Mexico,3,TikTok,0,7,0,In a relationshipn,1,0
+21,Female,Preparatory,Mexico,1,Instagram,0,5,0,In a relationshipn,1,0
+21,Female,Graduate,Mexico,3,TikTok,0,8,0,Single,4,0
+23,Female,Graduate,Colombia,3,TikTok,0,8,0,Single,0,0
+21,Male,Preparatory,Mexico,5,WhatsApp,0,8,0,Single,0,0
+21,Male,Graduate,Mexico,1,TikTok,0,7,0,In a relationshipn,0,0
+21,Male,Graduate,Liechtenstein,5,Instagram,0,6,0,Single,0,0
+23,Male,Sin estudios,Mexico,10,YouTube,0,7,0,In a relationshipn,0,0
+22,Male,Graduate,Mexico,7,TikTok,0,7,0,In a relationshipn,2,0
+22,Male,Graduate,Mexico,7,WhatsApp,0,7,0,In a relationshipn,0,0
+23,Male,Graduate,Mexico,4,TikTok,0,9,0,In a relationshipn,0,0
+21,Female,Secondary,Mexico,5,WhatsApp,0,5,0,Single,0,0
+20,Male,Graduate,Mexico,4,Instagram,0,4,0,Single,0,0
+21,Male,Graduate,Mexico,7,Instagram,0,7,0,Single,0,0
+25,Male,Graduate,Mexico,1,Instagram,0,6,0,In a relationshipn,0,0
+20,Female,Preparatory,Mexico,3,TikTok,0,8,0,Single,0,0
+80,Male,Sin estudios,Bahrain,0,LINE,0,1,0,Single,5,0
+42,Female,Primaria,Mexico,1,WhatsApp,0,8,0,Single,0,0
+27,Female,Preparatory,Mexico,7,WhatsApp,0,5,0,Single,0,0
+20,Female,Preparatory,Mexico,8,WhatsApp,0,4,0,Single,3,0
+23,Female,Preparatory,Mexico,4,Instagram,0,8,0,Single,0,0
+40,Male,Graduate,Mexico,5,WhatsApp,0,7,0,Single,1,0
+54,Male,Posgrado,Mexico,1,WhatsApp,0,6,0,In a relationshipn,0,0
+30,Female,Graduate,Mexico,6,Facebook,0,7,0,Single,0,0
+52,Female,Secondary,Mexico,2,WhatsApp,0,7,0,In a relationshipn,1,0
+28,Female,Posgrado,Mexico,4,WhatsApp,0,6,0,In a relationshipn,0,0
+52,Female,Secondary,Mexico,3,WhatsApp,0,7,0,In a relationshipn,1,0
+29,Male,Graduate,Mexico,4,Facebook,0,8,0,In a relationshipn,0,0
+41,Female,Graduate,Mexico,3,WhatsApp,0,8,0,Single,0,0
+22,Female,Graduate,Mexico,5,TikTok,0,8,0,In a relationshipn,0,0
+27,Female,Graduate,Mexico,5,Instagram,0,8,0,In a relationshipn,0,0
+16,Male,Preparatory,Ecuador,3,TikTok,0,7,0,In a relationshipn,0,0
+16,Male,Preparatory,Ecuador,3,TikTok,0,7,0,In a relationshipn,0,0
+23,Female,Graduate,Mexico,5,WhatsApp,0,6,0,Single,2,0
+22,Female,Graduate,Mexico,3,Facebook,0,7,0,In a relationshipn,0,0
+22,Male,Graduate,Qatar,5,TikTok,0,6,0,Single,0,0
+20,Female,Preparatory,Mexico,4,Instagram,0,5,0,In a relationshipn,5,0
+19,Female,Preparatory,Malta,3,TikTok,0,6,0,Single,0,0
+21,Male,Preparatory,Mexico,7,TikTok,0,6,0,Single,0,0
+24,Female,Preparatory,Mexico,7,Instagram,0,4,0,Single,1,0
+19,Male,Preparatory,Mexico,5,Facebook,0,7,0,In a relationshipn,2,0
+18,Male,Preparatory,Mexico,3,YouTube,0,4,0,In a relationshipn,1,0
+14,Female,Preparatory,Mexico,5,Twitter,0,5,0,Single,1,0
+21,Male,Preparatory,Mexico,4,Instagram,0,6,0,In a relationshipn,1,0
+27,Male,Graduate,Mexico,5,WhatsApp,0,8,0,Single,0,0
+19,Male,Preparatory,Mexico,7,Facebook,0,4,0,Single,3,0
+22,Male,Graduate,Mexico,1,Facebook,0,7,0,In a relationshipn,,0
+22,Female,Preparatory,Mexico,5,TikTok,0,8,0,In a relationshipn,1,0
+22,Female,Preparatory,Mexico,5,TikTok,0,8,0,In a relationshipn,1,0
+21,Male,Posgrado,Argentina,3,Instagram,0,8,0,In a relationshipn,0,0
+21,Male,Posgrado,Argentina,3,Instagram,0,8,0,In a relationshipn,0,0
+22,Male,Graduate,Mexico,1,YouTube,0,5,0,Single,0,0
+20,Female,Graduate,Mexico,5,Twitter,0,6,0,Single,2,0
+26,Male,Graduate,Mexico,5,Facebook,0,6,0,In a relationship,3,0
+21,Male,Graduate,Mexico,5,Instagram,0,6,0,In a relationship,1,0
+20,Male,Graduate,Mexico,5,Instagram,0,6,0,In a relationship,2,0
+26,Female,Secondary,Mexico,5,Instagram,0,4,0,In a relationship,1,0
+24,Female,Secondary,Mexico,7,Facebook,0,4,0,Single,1,0
+26,Male,Secondary,Mexico,4,TikTok,0,7,0,In a relationship,1,0
+23,Male,Graduate,Mexico,5,Instagram,0,5,0,Single,1,0
+21,Male,Graduate,Mexico,4,TikTok,0,6,0,Single,1,0
+20,Male,Graduate,Mexico,7,Twitter,0,5,0,Single,3,0
+22,Female,Graduate,Mexico,3,YouTube,0,7,0,Single,1,0
+27,Female,Graduate,Mexico,4,Twitter,0,6,0,Single,1,0
+25,Female,Graduate,Mexico,3,YouTube,0,7,0,In a relationship,0,0
+22,Female,Graduate,Mexico,6,YouTube,0,5,0,In a relationship,3,0
+18,Male,Secondary,Mexico,4,TikTok,0,6,0,Single,0,0
+18,Male,Secondary,Mexico,5,Facebook,0,6,0,In a relationship,4,0
+20,Male,Graduate,Mexico,4,Instagram,0,6,0,Single,2,0
+18,Male,Graduate,Mexico,8,TikTok,0,5,0,In a relationship,1,0
+22,Male,Graduate,Mexico,5,TikTok,0,6,0,Complicado,0,0
+23,Male,Graduate,Mexico,7,Facebook,0,5,0,In a relationship,1,0
+24,Female,Graduate,Mexico,6,Instagram,0,8,0,Single,0,0
+20,Male,Graduate,Mexico,8,TikTok,0,7,0,Single,0,0
+22,Female,Graduate,Mexico,8,TikTok,0,6,0,Single,1,0
+23,Female,Graduate,Mexico,4,Facebook,0,6,0,Single,0,0
+26,Female,Secondary,Mexico,7,TikTok,0,5,0,Single,1,0
+25,Male,Secondary,Mexico,5,Instagram,0,8,0,In a relationship,0,0
+16,Male,Secondary,Mexico,6,YouTube,0,5,0,In a relationship,3,0
+18,Female,Graduate,Mexico,6,TikTok,0,5,0,In a relationship,4,0
+19,Male,Graduate,Mexico,6,TikTok,0,5,0,In a relationship,1,0
+18,Female,Secondary,Mexico,4,Instagram,0,6,0,In a relationship,1,0
+21,Male,Graduate,Mexico,5,Instagram,0,4,0,Single,3,0
+23,Male,Secondary,Mexico,5,Instagram,0,5,0,Single,2,0
+21,Male,Secondary,Mexico,4,YouTube,0,6,0,Single,0,0
+23,Male,Graduate,Mexico,2,Twitter,0,7,0,In a relationship,3,0
+24,Male,Graduate,Mexico,3,Instagram,0,6,0,Single,1,0
+22,Female,Graduate,Mexico,5,Facebook,0,7,0,In a relationship,3,0
+22,Female,Graduate,Mexico,8,Instagram,0,5,0,In a relationship,1,0
+24,Female,Secondary,Mexico,4,Instagram,0,6,0,In a relationship,1,0
+21,Male,Graduate,Mexico,5,Instagram,0,6,0,Single,2,0
+20,Female,Graduate,Mexico,6,Facebook,0,5,0,In a relationship,3,0
+15,Male,Secondary,Mexico,5,Facebook,0,6,0,Single,5,0
+19,Male,Graduate,Mexico,7,Facebook,0,5,0,In a relationship,0,0
+23,Female,Secondary,Mexico,7,YouTube,0,5,0,Single,2,0
+27,Female,Graduate,Mexico,4,Twitter,0,6,0,Single,2,0
+22,Male,Graduate,Mexico,8,Facebook,0,5,0,In a relationship,2,0
+19,Female,Graduate,Mexico,6,YouTube,0,6,0,Single,4,0
+20,Male,Graduate,Mexico,6,TikTok,0,5,0,Single,5,0
+25,Male,Graduate,Mexico,6,Facebook,0,7,0,In a relationship,1,0
+20,Female,Graduate,Mexico,7,Facebook,0,7,0,In a relationship,1,0
+23,Male,Graduate,Mexico,4,Facebook,0,5,0,In a relationship,1,0
+21,Male,Graduate,Mexico,3,TikTok,0,7,0,Single,1,0
+21,Female,Graduate,Mexico,5,Twitter,0,6,0,In a relationship,2,0
+28,Female,Graduate,Mexico,4,TikTok,0,7,0,Single,2,0
+21,Male,Graduate,Mexico,5,Facebook,0,6,0,Single,2,0
+20,Male,Graduate,Mexico,8,TikTok,0,4,0,Single,9,0
+22,Female,Graduate,Mexico,4,Facebook,0,7,0,In a relationship,0,0
+17,Female,Secondary,Mexico,5,Facebook,0,6,0,In a relationship,2,0
+16,Male,Secondary,Mexico,6,Twitter,0,6,0,Single,1,0
+18,Female,Secondary,Mexico,8,Instagram,0,3,0,Single,2,0
+22,Male,Graduate,Mexico,6,Instagram,0,6,0,In a relationship,3,0
+21,Female,Graduate,Mexico,7,YouTube,0,5,0,Single,4,0
+19,Male,Graduate,Mexico,8,Twitter,0,4,0,In a relationship,1,0
+27,Female,Graduate,Mexico,4,Facebook,0,6,0,In a relationship,6,0
+20,Male,Graduate,Mexico,7,Instagram,0,4,0,In a relationship,7,0
+18,Female,Graduate,Mexico,7,Facebook,0,6,0,Single,2,0
+18,Female,Graduate,Mexico,7,Instagram,0,4,0,In a relationship,2,0
+18,Male,Secondary,Mexico,4,Instagram,0,7,0,In a relationship,1,0
+27,Female,Graduate,Mexico,4,Instagram,0,6,0,In a relationship,0,0
+18,Male,Secondary,Mexico,6,Twitter,0,6,0,Single,4,0
+24,Female,Graduate,Mexico,4,TikTok,0,5,0,In a relationship,2,0
+21,Male,Graduate,Mexico,7,Facebook,1,5,0,In a relationship,5,0
+18,Female,Secondary,Mexico,5,Twitter,1,5,0,Single,5,0
+17,Male,Secondary,Mexico,4,Instagram,0,6,0,In a relationship,1,0
+25,Female,Graduate,Mexico,5,Instagram,1,6,0,In a relationship,1,0
+20,Male,Graduate,Mexico,5,Twitter,0,5,0,Single,2,0
+19,Female,Graduate,Mexico,5,Twitter,0,6,0,In a relationship,5,0
+20,Male,Graduate,Mexico,6,YouTube,0,5,0,Complicado,4,0
+17,Male,Secondary,Mexico,5,Facebook,0,6,0,Complicado,2,0
+20,Male,Graduate,Mexico,5,Twitter,0,6,0,Single,1,0
+18,Female,Secondary,Mexico,6,Facebook,1,5,0,Single,2,0
+28,Male,Graduate,Mexico,3,YouTube,0,7,0,In a relationship,6,0
+21,Female,Graduate,Mexico,8,YouTube,1,5,0,In a relationship,4,0
+18,Male,Graduate,Mexico,5,Facebook,0,6,0,Single,0,0
+15,Female,Secondary,Mexico,6,Instagram,1,5,0,In a relationship,2,0
+19,Male,Graduate,Mexico,6,TikTok,0,5,0,In a relationship,5,0
+18,Female,Graduate,Mexico,4,Instagram,0,5,0,In a relationship,2,0
+20,Female,Graduate,Mexico,5,Instagram,0,5,0,In a relationship,9,0
+21,Male,Graduate,Mexico,7,Instagram,1,4,0,Single,4,0
+30,Female,Graduate,Mexico,4,Twitter,1,7,0,Single,1,0
+18,Female,Graduate,Mexico,6,YouTube,0,5,0,Single,2,0
+16,Male,Secondary,Mexico,3,Instagram,0,6,0,In a relationship,3,0
+19,Female,Graduate,Mexico,7,YouTube,1,4,0,Single,5,0
+20,Female,Graduate,Mexico,8,Facebook,1,4,0,Single,4,0
+21,Female,Graduate,Mexico,8,TikTok,1,4,0,Single,4,0
+19,Male,Graduate,Mexico,5,Facebook,0,6,0,In a relationship,2,0
+18,Female,Graduate,Mexico,6,Facebook,1,5,0,In a relationship,2,0
+21,Male,Graduate,Mexico,7,Twitter,1,5,0,Single,3,0
+21,Female,Graduate,Mexico,5,TikTok,0,5,0,Single,4,0
+18,Female,Secondary,Mexico,5,Facebook,1,6,0,In a relationship,1,0
+18,Female,Secondary,Mexico,6,Facebook,1,5,0,Single,0,0
+20,Male,Graduate,Mexico,6,TikTok,1,5,0,Single,4,0
+21,Female,Graduate,Mexico,5,TikTok,0,5,0,Single,3,0
+22,Female,Graduate,Mexico,5,Facebook,0,6,0,Single,3,0
+22,Male,Graduate,Mexico,7,TikTok,1,5,0,Single,3,0
+28,Female,Graduate,Mexico,5,Facebook,1,5,0,Single,2,0
+18,Male,Graduate,Mexico,4,Facebook,0,5,0,Single,3,0
+18,Male,Graduate,Mexico,4,Twitter,0,6,0,In a relationship,2,0
+20,Female,Graduate,Mexico,6,Instagram,0,5,0,Single,2,0
+20,Male,Graduate,Mexico,5,Facebook,0,5,0,In a relationship,0,0
+18,Female,Secondary,Mexico,5,YouTube,0,5,0,In a relationship,4,0
+20,Male,Graduate,Mexico,6,Instagram,0,4,0,Single,6,0
+18,Male,Secondary,Mexico,6,Instagram,1,5,0,In a relationship,1,0
+29,Female,Graduate,Mexico,4,Instagram,1,6,0,Single,4,0
+27,Male,Graduate,Mexico,4,Twitter,1,5,0,In a relationship,1,0
+18,Male,Graduate,Mexico,5,Facebook,0,6,0,Single,1,0
+29,Male,Graduate,Mexico,1,Twitter,0,7,0,Single,0,0
+25,Male,Graduate,Mexico,5,Facebook,1,7,0,Single,0,0
+23,Male,University Higher Technician,México,8,Facebook,0,8,0,Single,1,0
+23,Male,University Higher Technician,México,6,YouTube,0,8,0,Single,1,0
+23,Male,University Higher Technician,México,4,YouTube,0,8,0,Single,1,0
+22,Male,University Higher Technician,México,4,TikTok,0,9,0,Single,1,0
+21,Male,University Higher Technician,México,4,Otra,0,9,0,Single,1,0
+22,Male,University Higher Technician,México,4,YouTube,0,8,0,Single,1,0
+21,Male,Graduate,México,5,Instagram,0,6,0,Single,1,0
+22,Female,Graduate,México,7,TikTok,0,7,0,In a relationship,1,0
+22,Female,University Higher Technician,México,5,Instagram,0,6,0,Single,1,0
+21,Female,Graduate,México,6,TikTok,0,8,0,In a relationship,1,0
+21,Female,Graduate,México,6,TikTok,0,8,0,In a relationship,1,0
+21,Male,Graduate,México,6,TikTok,0,8,0,In a relationship,1,0
+21,Male,Graduate,México,6,TikTok,0,8,0,In a relationship,1,0
+21,Male,Graduate,México,8,Facebook,0,7,0,Single,1,0
+24,Female,University Higher Technician,México,6,YouTube,0,8,0,In a relationship,1,0
+24,Female,Graduate,México,8,WhatsApp,0,7,0,In a relationship,1,0
+21,Female,University Higher Technician,México,5,Facebook,0,6,0,Single,1,0
+20,Male,Graduate,México,3,Facebook,0,5,0,In a relationship,1,0
+23,Male,Graduate,México,9,WhatsApp,0,9,0,Single,1,0
+23,Male,Graduate,México,9,WhatsApp,0,9,0,Single,1,0
+21,Male,Graduate,México,2,TikTok,0,8,0,Single,1,0
+21,Male,Graduate,México,2,TikTok,0,8,0,Single,1,0
+23,Male,Graduate,México,6,TikTok,0,6,0,Single,1,0
+22,Male,University Higher Technician,México,8,Otra,0,3,0,In a relationship,1,0
+22,Female,University Higher Technician,México,7,Otra,0,4,0,In a relationship,1,0
+25,Male,Graduate,México,1,Instagram,0,6,0,In a relationship,1,0
+21,Male,University Higher Technician,México,4,WhatsApp,0,5,0,Single,1,0
+21,Male,University Higher Technician,México,4,YouTube,0,7,0,In a relationship,1,0
+22,Female,Graduate,México,5,TikTok,0,6,0,3,1,0
+21,Male,Graduate,México,6,TikTok,0,6,0,In a relationship,1,0
+22,Female,Graduate,México,8,WhatsApp,0,6,0,In a relationship,1,0
+21,Female,Graduate,México,2,TikTok,0,8,0,In a relationship,1,0
+22,Female,Graduate,México,6,TikTok,0,7,0,In a relationship,1,0
+22,Female,Graduate,México,3,TikTok,0,6,0,Single,1,0
+19,Male,University Higher Technician,México,8,WhatsApp,0,7,0,In a relationship,1,0
+20,Male,University Higher Technician,México,5,TikTok,0,6,0,Single,1,0
+20,Female,University Higher Technician,México,5,TikTok,0,6,0,Single,1,0
+20,Female,University Higher Technician,México,3,YouTube,0,7,0,Single,1,0
+21,Female,University Higher Technician,México,4,Instagram,0,4,0,Single,1,0
+26,Female,University Higher Technician,Colombia,12,TikTok,0,7,0,In a relationship,1,0
+23,Male,Graduate,México,4,TikTok,0,9,0,In a relationship,1,0
+24,Female,Mastery,Estados Unidos,6,Snapchat,0,9,0,In a relationship,1,0
+25,Female,Mastery,Estados Unidos,8,Snapchat,0,4,0,In a relationship,1,0
+21,Female,University Higher Technician,México,2,YouTube,0,3,0,In a relationship,1,0
+19,Male,University Higher Technician,México,5,TikTok,0,6,0,Single,1,0
+18,Male,University Higher Technician,México,5,YouTube,0,7,0,In a relationship,1,0
+20,Female,University Higher Technician,Colombia,4,YouTube,0,10,0,Single,1,0
+23,Female,University Higher Technician,México,6,Twitter,0,6,0,Single,1,0
+25,Female,Graduate,México,6,YouTube,0,9,0,Single,1,0
+25,Female,Graduate,México,5,Twitter,0,4,0,Single,1,0
+26,Male,Mastery,México,6,Otra,0,2,0,Single,1,0
+26,Male,Graduate,Colombia,9,Facebook,0,9,0,Single,1,0
+21,Male,University Higher Technician,Mexico,0,Whatsapp,0,6,0,In a relationship,1,0
+21,Female,Graduate,México,1,Instagram,0,4,0,In a relationship,1,0
+19,Female,University Higher Technician,México,2,TikTok,0,8,0,Single,1,0
+75,Female,Graduate,Estados Unidos,3,Facebook,0,9,0,Single,1,0
+21,Male,University Higher Technician,México,4,TikTok,0,8,0,Single,1,0
+22,Male,Graduate,México,4,Instagram,0,6,0,Single,1,0
+18,Male,University Higher Technician,México,8,Facebook,0,2,0,In a relationship,1,0
+20,Male,University Higher Technician,México,5,TikTok,0,6,0,In a relationship,1,0
+23,Male,Graduate,México,6,Instagram,0,7,0,Single,1,0
+20,Male,University Higher Technician,México,5,TikTok,0,10,0,Single,1,0
+20,Male,University Higher Technician,México,3,Facebook,0,6,0,In a relationship,1,0
+21,Female,Graduate,México,1,Instagram,0,7,0,Single,1,0
+21,Male,Graduate,México,1,Instagram,0,7,0,Single,1,0
+21,Male,Graduate,México,1,Instagram,0,7,0,Single,1,0
+21,Male,Graduate,México,1,Instagram,0,7,0,Single,1,0
+25,Female,Graduate,México,2,YouTube,0,7,0,Single,1,0
+27,Male,University Higher Technician,México,2,Instagram,0,8,0,In a relationship,1,0
+27,Female,University Higher Technician,México,2,Instagram,0,8,0,In a relationship,1,0
+27,Female,University Higher Technician,México,2,Instagram,0,8,0,In a relationship,1,0
+27,Female,University Higher Technician,México,2,Instagram,0,8,0,In a relationship,1,0
+27,Female,University Higher Technician,México,2,Instagram,0,8,0,In a relationship,1,0
+21,Male,University Higher Technician,México,2,TikTok,0,8,0,Single,1,0
+22,Male,Graduate,México,5,Facebook,0,6,0,Single,1,0
+23,Female,University Higher Technician,México,7,Twitter,0,5,0,In a relationship,1,0
+21,Female,Graduate,México,5,WhatsApp,0,6,0,Single,1,0
+22,Female,University Higher Technician,México,3,WhatsApp,0,6,0,In a relationship,1,0
+18,Female,University Higher Technician,España,6,Facebook,0,5,0,In a relationship,1,0
+21,Male,University Higher Technician,México,6,TikTok,0,5,0,In a relationship,1,0
+21,Female,Graduate,México,7,TikTok,0,6,0,In a relationship,1,0
+20,Female,University Higher Technician,México,8,Instagram,0,7,0,Single,1,0
+21,Female,Graduate,México,4,YouTube,0,7,0,Single,1,0
+21,Male,Graduate,México,4,YouTube,0,7,0,Single,1,0
+19,Male,Graduate,México,5,Instagram,0,5,0,Single,1,0
+19,Male,University Higher Technician,México,2,Instagram,0,7,0,In a relationship,1,0
+22,Female,Graduate,México,10,TikTok,0,7,0,Single,1,0
+18,Female,University Higher Technician,México,12,TikTok,0,4,0,In a relationship,1,0
+18,Female,University Higher Technician,México,12,TikTok,0,4,0,In a relationship,1,0
+19,Female,Graduate,México,4,TikTok,0,6,0,In a relationship,1,0
+28,Male,Graduate,México,5,TikTok,0,8,0,In a relationship,1,0
+22,Male,University Higher Technician,México,5,YouTube,0,7,0,Single,1,0
+21,Male,University Higher Technician,México,5,YouTube,0,8,0,Single,1,0
+22,Female,University Higher Technician,México,5,YouTube,0,7,0,Single,1,0
+22,Female,University Higher Technician,México,5,YouTube,0,7,0,Single,1,0
+19,Female,Graduate,México,3,TikTok,0,8,0,Single,1,0
+19,Male,Graduate,México,3,TikTok,0,8,0,Single,1,0
+18,Male,University Higher Technician,México,6,TikTok,0,5,0,Single,1,0
+18,Male,University Higher Technician,México,6,TikTok,0,5,0,Single,1,0
+18,Male,University Higher Technician,México,6,TikTok,0,5,0,Single,1,0
+18,Male,Graduate,México,5,TikTok,0,7,0,Single,1,0
+18,Male,Graduate,México,5,TikTok,0,7,0,Single,1,0
+18,Male,Graduate,México,5,TikTok,0,7,0,Single,1,0
+26,Female,Mastery,El Salvador,23,Otra,0,13,0,In a relationship,1,0
+19,Male,Graduate,Mexico,5.2,Instagram,1,6.5,6,In a relationship,3,8
+19,Male,Graduate,Mexico,2.1,Twitter,0,7.5,8,Single,0,3
+20,Male,Graduate,Mexico,6,TikTok,1,5,5,Complicado,4,9
+21,Female,Graduate,China,6.1,Snapchat,1,7.5,5,Single,8,9
+21,Male,Graduate,Bangladesh,6.1,Snapchat,1,7.5,5,Single,8,9
+21,Female,Graduate,Bangladesh,6.1,Snapchat,1,7.5,5,Single,8,9
+21,Female,Graduate,Bangladesh,6.1,Snapchat,1,8,5,Single,8,9
+21,Female,Graduate,Bangladesh,6.1,Snapchat,1,5,5,Single,8,9
+21,Female,Graduate,Bangladesh,6.1,Snapchat,1,5,5,Single,8,9
+22,Male,Secondary,Albania,13,tiktok,1,13,0,Single,4,19
+19,Male,Secondary,Albania,11,tiktok,1,17,1,In a relationship,6,16
+28,Female,Secondary,Algeria,11,tiktok,1,16,1,Single,5,16
+15,Female,Graduate,Belize,12,tiktok,1,12,0,In a relationship,6,17
+17,Female,Secondary,Algeria,13,tiktok,1,15,0,In a relationship,6,18
+21,Female,Graduate,Mexico,6,youtube,1,9,5,Single,3,8
+21,Male,Graduate,Mexico,6,youtube,1,9,5,Single,3,8
+18,Female,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Female,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Female,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,2,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+18,Male,Graduate,Mexico,10,facebook,1,8,2,Single,5,14
+21,Male,Graduate,Mexico,3,tiktok,0,8,7,Single,0,4
+21,Male,Graduate,Mexico,3,tiktok,0,8,7,Single,0,4
+21,Male,Graduate,Mexico,3,tiktok,0,8,7,Single,0,4
+21,Male,Graduate,Mexico,3,tiktok,0,8,7,Single,0,4
+21,Male,Graduate,Mexico,3,tiktok,0,8,7,Single,0,4
+21,Male,Graduate,Mexico,3,tiktok,0,8,7,Single,0,4
+21,Male,Graduate,Mexico,3,tiktok,0,8,7,Single,0,4
+21,Male,Graduate,Mexico,3,instagram,0,8,7,Single,0,4
+44,Male,Graduate,Mexico,8,instagram,1,12,3,In a relationship,7,11
+12,Male,Graduate,Mexico,14,instagram,1,11,0,Single,3,19
+10,Male,Secondary,Mexico,9,instagram,1,14,2,Single,6,12
+14,Male,Secondary,Mexico,9,instagram,1,9,2,In a relationship,5,12
+1,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+1,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+21,Male,Graduate,Mexico,4,facebook,0,8,6,Single,1,5
+17,Male,Graduate,Mexico,9,instagram,1,10,2,In a relationship,4,12
+16,Male,Graduate,Mexico,1,whatsapp,0,6,8,Complicado,1,1
+16,Male,Graduate,Mexico,1,whatsapp,0,6,8,Complicado,8,1
+16,Male,Graduate,Mexico,1,whatsapp,0,6,8,Complicado,8,1
+16,Male,Graduate,Mexico,1,whatsapp,0,6,8,Complicado,8,1
+18,Male,Secondary,Mexico,1,whatsapp,0,7,8,Complicado,1,1
+16,Male,Secondary,Mexico,2,tiktok,0,10,7,Single,8,2
+16,Male,Secondary,Mexico,2,tiktok,0,10,7,Single,8,2
+16,Male,Secondary,Mexico,2,tiktok,0,10,7,Single,8,2
+16,Male,Secondary,Mexico,2,tiktok,0,10,7,Single,0,2
+16,Male,Secondary,Mexico,2,tiktok,0,10,7,Single,0,2
+16,Male,Secondary,Mexico,2,tiktok,0,10,7,Single,0,2
+13,Male,Secondary,Mexico,17,tiktok,1,7,-2,Single,0,24
+15,Male,Secondary,Mexico,10,instagram,1,6,2,In a relationship,3,14
+19,Male,Graduate,Venezuela,8,whatsapp,1,7,3,Single,1,11
+19,Male,Graduate,Venezuela,8,whatsapp,1,7,3,Single,1,11
+19,Male,Graduate,Venezuela,8,whatsapp,1,7,3,Single,1,11
+19,Male,Graduate,Venezuela,8,whatsapp,1,7,3,Single,0,11
+19,Male,Graduate,Venezuela,8,whatsapp,1,7,3,Single,0,11
+18,Male,Secondary,Mexico,7,whatsapp,1,11,3,Complicado,1,9
+19,Male,Graduate,Venezuela,8,whatsapp,1,7,3,Single,2,11
+19,Male,Graduate,Venezuela,8,whatsapp,1,7,3,Single,0,11
+19,Male,Graduate,Venezuela,8,whatsapp,1,7,3,Single,0,11
+18,Male,Secondary,Mexico,7,whatsapp,1,11,3,Complicado,1,9
+18,Male,Secondary,Mexico,7,whatsapp,1,11,3,Complicado,1,9
+18,Male,Secondary,Mexico,7,whatsapp,1,11,3,Complicado,1,9
+19,Male,Graduate,Venezuela,8,whatsapp,1,7,3,Single,1,11
+17,Male,Graduate,Mexico,5,twitter,0,9,5,Single,0,6
+17,Male,Graduate,Mexico,5,twitter,0,9,5,Single,0,6
+17,Male,Graduate,Mexico,5,twitter,0,9,5,Single,0,6
+17,Male,Graduate,Mexico,5,twitter,0,9,5,Single,0,6
+16,Male,Secondary,Bolivia,9,tiktok,1,8,2,Single,0,12
+16,Male,Secondary,Bolivia,9,tiktok,1,8,2,Single,0,12
+16,Male,Secondary,Bolivia,9,tiktok,1,8,2,Single,0,12
+16,Male,Secondary,Bolivia,9,tiktok,1,8,2,Single,0,12
+16,Male,Secondary,Bolivia,9,tiktok,1,8,2,Single,0,12
+16,Male,Secondary,Bolivia,9,tiktok,1,8,2,Single,0,12
+16,Male,Secondary,Bolivia,9,tiktok,1,8,2,Single,0,12
+16,Male,Secondary,Bolivia,9,tiktok,1,8,2,Single,0,12
+16,Male,Secondary,Bolivia,9,tiktok,1,8,2,Single,0,12
+16,Male,Secondary,Bolivia,9,tiktok,1,8,2,Single,0,12
+16,Male,Secondary,Bolivia,9,tiktok,1,8,2,Single,0,12
+16,Male,Secondary,Bolivia,10,tiktok,1,8,2,Single,0,14
+16,Male,Secondary,Bolivia,10,tiktok,1,8,2,Single,0,14
+16,Male,Secondary,Bolivia,10,tiktok,1,8,2,Single,0,14
+16,Male,Secondary,Bolivia,10,tiktok,1,8,2,Single,0,14
+16,Male,Secondary,Bolivia,10,tiktok,1,8,2,Single,0,14
+16,Male,Secondary,Bolivia,10,tiktok,1,8,2,Single,0,14
+16,Male,Secondary,Bolivia,10,tiktok,1,8,2,Single,0,14
+16,Male,Secondary,Bolivia,10,tiktok,1,8,2,Single,0,14
+16,Male,Secondary,Bolivia,10,tiktok,1,8,2,Single,0,14
+16,Male,Secondary,Bolivia,10,tiktok,1,8,2,Single,0,14
+14,Male,Secondary,Argentina,4,tiktok,0,9,5,Single,3,5
+14,Male,Secondary,Argentina,4,tiktok,0,9,5,Single,3,5
+14,Male,Secondary,Argentina,4,tiktok,0,9,5,Single,3,5
+14,Male,Secondary,Argentina,4,tiktok,0,9,5,Single,3,5
+14,Male,Secondary,Argentina,4,tiktok,0,9,5,Single,3,5
+14,Male,Secondary,Argentina,4,tiktok,0,9,5,Single,3,5
+14,Male,Secondary,Argentina,4,tiktok,0,9,5,Single,3,5
+14,Male,Secondary,Argentina,4,tiktok,0,9,5,Single,3,5
+14,Male,Secondary,Argentina,4,tiktok,0,9,5,Single,3,5
+14,Male,Secondary,Argentina,4,tiktok,0,9,5,Single,0,5
+14,Male,Secondary,Argentina,4,tiktok,0,9,5,Single,3,5
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,10,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+100,Male,Graduate,Afghanistan,1,kakaotalk,0,24,6,In a relationship,5,0
+19,Male,Secondary,Guatemala,2,tiktok,0,5,7,Single,0,2
+19,Male,Secondary,Guatemala,2,tiktok,0,5,7,Single,0,2
+19,Male,Secondary,Guatemala,2,tiktok,0,5,7,Single,0,2
+19,Male,Secondary,Guatemala,2,tiktok,0,5,7,Single,0,2
+19,Male,Secondary,Guatemala,2,tiktok,0,5,7,Single,1,2
+19,Male,Secondary,Guatemala,2,tiktok,0,5,7,Single,1,2
+19,Male,Secondary,Guatemala,2,tiktok,0,5,7,Single,1,2
+19,Male,Secondary,Guatemala,2,tiktok,0,5,7,Single,0,2
+19,Male,Secondary,Guatemala,2,tiktok,0,6,7,Single,0,2
+100,Female,Graduate,North Korea,24,twitter,1,24,-8,Single,10,33
+100,Female,Graduate,North Korea,24,twitter,1,24,-8,Single,10,33
+100,Female,Graduate,North Korea,24,twitter,1,24,-8,Single,10,33
+100,Female,Graduate,North Korea,24,twitter,1,24,-8,Single,10,33
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,3,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,3,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,3,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,3,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,3,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,3,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,2,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,2,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,2,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,2,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,2,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,2,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,2,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,2,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,2,11
+15,Male,Secondary,Peru,8,tiktok,1,7,3,Single,2,11
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,1,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,1,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,1,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,2,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,1,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,1,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,1,9
+15,Male,Secondary,Peru,7,tiktok,1,8,4,Single,1,9
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+14,Male,Secondary,Argentina,15,tiktok,1,8,-1,Single,0,21
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,3,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,1,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,1,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,0,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,3,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,1,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,3,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,5,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,1,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,3,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,3,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,0,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,1,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,3,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,1,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,3,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,0,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,1,15
+15,Male,Graduate,Venezuela,11,tiktok,1,8,1,Single,3,15
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,0,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,0,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,0,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,0,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,0,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,0,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+15,Male,Secondary,Venezuela,24,tiktok,1,12,-7,Single,1,33
+16,Male,Secondary,Colombia,4,tiktok,0,9,5,Single,0,5
+16,Male,Secondary,Colombia,4,tiktok,0,9,5,Single,0,5
+16,Male,Secondary,Colombia,4,tiktok,0,9,5,Single,0,5
+16,Male,Secondary,Colombia,4,tiktok,0,9,5,Single,0,5
+16,Male,Secondary,Colombia,4,tiktok,0,9,5,Single,0,5
+16,Male,Secondary,Colombia,4,tiktok,0,9,5,Single,0,5
+16,Male,Secondary,Colombia,4,tiktok,0,9,5,Single,0,5
+16,Male,Secondary,Colombia,4,tiktok,0,9,5,Single,0,5
+16,Male,Secondary,Colombia,4,tiktok,0,9,5,Single,0,5
+16,Male,Secondary,Colombia,4,tiktok,0,9,5,Single,0,5
+20,Male,Graduate,Mexico,3,tiktok,0,6,6,Single,1,3
+20,Male,Graduate,Mexico,3,tiktok,0,6,6,Single,1,3
+20,Male,Graduate,Mexico,3,tiktok,0,6,6,Single,1,3
+20,Male,Graduate,Mexico,3,tiktok,0,6,6,Single,1,3
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,0,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,7,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,0,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,0,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,0,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,0,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,0,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,0,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+33,Male,Graduate,Mexico,4,tiktok,0,5,5,In a relationship,1,5
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,1,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,0,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,0,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,0,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,0,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,0,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,0,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,0,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,1,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,0,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,0,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,2,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,2,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,6,8
+15,Male,Graduate,Colombia,6,tiktok,1,8,4,Single,1,8
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Colombia,2,tiktok,0,10,6,Complicado,2,2
+14,Male,Secondary,Argentina,13,tiktok,1,8,0,Single,0,17
+14,Male,Secondary,Argentina,13,tiktok,1,8,0,Single,0,17
+14,Male,Secondary,Chile,10,tiktok,1,10,1,Single,10,13
+14,Male,Secondary,Chile,10,tiktok,1,10,1,Single,10,13
+14,Male,Secondary,Chile,10,tiktok,1,10,1,Single,10,13
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+15,Male,Graduate,Argentina,4,instagram,0,8,5,Single,2,5
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,0,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,1,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,1,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,1,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,1,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,1,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,1,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,1,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,1,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,10,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,10,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,10,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,0,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,0,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,0,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,0,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,0,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,1,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,0,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,9,13
+20,Female,Graduate,Mexico,14,tiktok,1,6,0,Complicado,2,19
+20,Female,Graduate,Mexico,14,tiktok,1,6,0,Complicado,2,19
+20,Female,Graduate,Mexico,14,tiktok,1,6,0,Complicado,2,19
+20,Female,Graduate,Mexico,14,tiktok,1,6,0,Complicado,2,19
+20,Female,Graduate,Mexico,14,tiktok,1,6,0,Complicado,2,19
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,1,13
+14,Male,Secondary,Mexico,10,instagram,1,8,1,In a relationship,1,13
+20,Male,Graduate,Mexico,4,instagram,0,7,5,In a relationship,0,5
+20,Male,Graduate,Mexico,4,instagram,0,7,5,In a relationship,0,5
+21,Male,Graduate,Mexico,3,tiktok,0,7,6,In a relationship,0,3
+21,Male,Graduate,Mexico,3,tiktok,0,7,6,In a relationship,0,3
+21,Male,Graduate,Mexico,3,tiktok,0,7,6,In a relationship,0,3
+21,Male,Graduate,Mexico,3,tiktok,0,7,6,In a relationship,0,3
+21,Male,Graduate,Mexico,3,tiktok,0,7,6,In a relationship,0,3
+21,Male,Graduate,Mexico,3,tiktok,0,7,6,In a relationship,0,3
+21,Male,Graduate,Mexico,3,tiktok,0,7,6,In a relationship,0,3
+100,Female,Graduate,Belize,24,youtube,1,24,-7,In a relationship,1,32
+24,Male,Secondary,Argentina,13,tiktok,1,10,0,Single,5,17
+24,Male,Secondary,Argentina,13,tiktok,1,10,0,Single,0,17
+24,Male,Secondary,Argentina,13,tiktok,1,10,0,Single,5,17
+24,Male,Secondary,Argentina,13,tiktok,1,10,0,Single,5,17
+24,Male,Secondary,Argentina,13,tiktok,1,10,0,Single,5,17
+24,Male,Secondary,Argentina,13,tiktok,1,10,0,Single,5,17
+24,Male,Secondary,Argentina,13,tiktok,1,10,0,Single,5,17
+20,Male,Graduate,Mexico,13,TikTok,0,8,0,Single,0,2
+22,Female,Graduate,Mexico,7,Twitter,1,7,0,Single,2,8
+25,Female,Graduate,Mexico,6,Facebook,0,8,0,In a relationship,0,5
+22,Female,Graduate,Mexico,6,TikTok,1,6,0,In a relationship,1,9
+21,Female,Graduate,Mexico,14,Twitter,0,8,0,Complicado,1,2
+23,Male,Graduate,Mexico,9,TikTok,0,7,0,In a relationship,0,8
+22,Male,Graduate,Mexico,4,Facebook,0,8,0,In a relationship,0,4
+22,Male,Graduate,Mexico,18,Twitter,0,3,0,In a relationship,1,1
+20,Female,Graduate,Mexico,8,Instagram,1,8,0,Single,0,8
+24,Female,Graduate,Mexico,4,Twitter,0,6,0,Single,0,4
+21,Female,Graduate,Mexico,8,TikTok,0,6,0,In a relationship,1,7
+22,Male,Graduate,Mexico,6,TikTok,1,6,0,Single,1,9
+20,Male,Graduate,Mexico,8,Instagram,1,8,0,Single,1,6
+23,Male,Graduate,Mexico,6,TikTok,0,7,0,In a relationship,0,6
+21,Male,Graduate,Mexico,3,Facebook,0,8,0,Single,0,2
+21,Male,Graduate,Mexico,20,Instagram,0,8,0,Single,0,5
+21,Male,Graduate,Mexico,17,Snapchat,0,8,0,Complicado,1,4
+25,Male,Graduate,Mexico,19,Instagram,0,6,0,In a relationship,0,5
+22,Female,Graduate,Mexico,18,Facebook,0,8,0,In a relationship,1,8
+21,Male,Graduate,Mexico,19,TikTok,0,6,0,Single,2,5
+23,Male,Graduate,Mexico,20,Instagram,0,4,0,In a relationship,1,6
+18,Male,Graduate,Mexico,10,TikTok,0,8,0,Complicado,2,8
+22,Female,Graduate,Mexico,5,Otra,1,6,0,In a relationship,1,5
+21,Male,Graduate,Mexico,4,TikTok,0,8,0,Single,0,5
+19,Female,Graduate,Mexico,8,TikTok,0,6,0,Single,0,7
+19,Female,Graduate,Mexico,8,TikTok,0,6,0,Single,0,7
+24,Female,Graduate,Mexico,1,TikTok,0,8,0,In a relationship,0,3
+31,Female,Graduate,Mexico,3,Twitter,0,8,0,In a relationship,0,4
+22,Male,Graduate,Mexico,6,Instagram,1,6,0,Single,0,8
+23,Male,Graduate,Mexico,5,Instagram,1,7,0,In a relationship,2,7
+22,Female,Graduate,Mexico,10,TikTok,0,5,0,Single,0,9
+23,Female,Graduate,Mexico,5,Twitter,0,7,0,Complicado,4,8
+19,Female,Graduate,Mexico,8,Twitter,0,4,0,In a relationship,1,9
+24,Female,Graduate,Mexico,7,Twitter,0,7,0,Complicado,4,8
+22,Male,Graduate,Mexico,4,TikTok,1,6,0,Complicado,3,4
+21,Female,Graduate,Mexico,3,Instagram,0,7,0,Single,1,5
+20,Female,Graduate,Mexico,8,Snapchat,1,9,0,In a relationship,0,7
+19,Female,Graduate,Mexico,6,TikTok,0,7,0,Single,0,7
+24,Male,Graduate,Mexico,5,Instagram,1,6,0,Single,1,8
+25,Male,Graduate,Mexico,6,Facebook,0,8,0,In a relationship,1,8
+20,Female,Graduate,Mexico,7,TikTok,1,5,0,Single,0,10
+22,Female,Graduate,Mexico,15,Instagram,0,8,0,Complicado,2,5
+25,Female,Graduate,Mexico,4,Facebook,0,6,0,Single,0,6
+23,Female,Graduate,Mexico,5,Instagram,0,4,0,In a relationship,0,7
+23,Male,Graduate,Mexico,4,TikTok,1,8,0,Single,0,5
+22,Male,Graduate,Mexico,5,Otra,0,8,0,In a relationship,0,4
+20,Male,Graduate,Mexico,10,TikTok,1,2,0,Single,4,10
+21,Female,Graduate,Mexico,4,TikTok,0,7,0,Single,1,4
+18,Female,Graduate,Mexico,2,Twitter,0,8,0,Single,0,3
+22,Female,Graduate,Mexico,16,TikTok,0,8,0,In a relationship,1,5
+21,Male,Graduate,Mexico,8,Facebook,0,5,0,In a relationship,0,3
+22,Male,Graduate,Mexico,4,TikTok,1,7,0,In a relationship,2,6
+21,Male,Graduate,Mexico,5,TikTok,0,6,0,Single,1,4
+21,Male,Graduate,Mexico,15,Instagram,1,8,0,Single,0,5
+23,Male,Graduate,Mexico,4,TikTok,0,8,0,Single,0,5
+22,Male,Graduate,Mexico,5,TikTok,1,6,0,Single,0,10000
+22,Male,Graduate,Mexico,6,Instagram,1,5,0,In a relationship,3,9
+22,Female,Graduate,Mexico,4,TikTok,1,6,0,Single,0,8
+19,Male,Graduate,Mexico,3,TikTok,1,7,0,Single,1,4
+22,Male,Graduate,Mexico,7,Snapchat,0,9,0,Complicado,1,6
+33,Male,Graduate,Mexico,4,Facebook,0,7,0,In a relationship,1,3
+21,Female,Graduate,Mexico,4,TikTok,0,8,0,Single,0,8
+24,Male,Graduate,Mexico,6,Facebook,1,3,0,Single,2,8
+23,Female,Graduate,Mexico,5,Instagram,1,8,0,In a relationship,2,8
+22,Female,Graduate,Mexico,6,Instagram,1,8,0,Complicado,1,7
+22,Female,Graduate,Mexico,8,Otra,1,8,0,Single,0,7
+21,Female,Graduate,Mexico,7,Twitter,0,9,0,Single,0,5
+21,Male,Graduate,Mexico,10,Instagram,1,7,0,In a relationship,2,9
+22,Male,Graduate,Mexico,7,TikTok,1,6,0,Single,1,9
+21,Female,Graduate,Mexico,7,Instagram,0,6,0,In a relationship,0,6
+24,Female,Graduate,Mexico,5,Instagram,1,6,0,Single,1,6
+22,Female,Graduate,Mexico,10,Instagram,1,7,0,Single,1,9
+27,Female,Graduate,Mexico,4,Facebook,0,8,0,Single,1,4
+21,Male,Graduate,Mexico,5,Instagram,0,7,0,Single,0,1
+30,Female,Graduate,Mexico,6,Instagram,0,6,0,In a relationship,1,7
+20,Female,Graduate,Mexico,8,TikTok,0,7,0,In a relationship,2,7
+21,Female,Graduate,Mexico,15,Instagram,1,6,0,Complicado,1,10
+22,Male,Graduate,Mexico,9,Facebook,1,6,0,Single,4,9
+28,Male,Graduate,Mexico,4,Facebook,0,7,0,Single,0,3
+20,Male,Graduate,Mexico,7,Twitter,1,6,0,Single,2,9
+22,Male,Graduate,Mexico,5,Otra,1,6,0,In a relationship,1,5
+20,Male,Graduate,Mexico,18,Otra,0,18,0,In a relationship,0,15
+21,Male,Graduate,Mexico,6,TikTok,0,10,0,Single,0,6
+21,Male,Graduate,Mexico,5,TikTok,1,7,0,Single,0,8
+15,Male,Graduate,Mexico,6,TikTok,1,5,0,Single,2,8
+23,Female,Graduate,Mexico,7,TikTok,0,5,0,In a relationship,2,9
+19,Female,Graduate,Mexico,5,Instagram,0,7,0,Single,1,4
+22,Female,Graduate,Mexico,3,TikTok,0,8,0,In a relationship,0,7
+22,Female,Graduate,Mexico,3,Facebook,0,8,0,Single,1,3
+24,Male,Graduate,Mexico,7,TikTok,0,8,0,In a relationship,0,4
+20,Male,Graduate,Mexico,4,Instagram,0,7,0,In a relationship,0,2
+21,Male,Graduate,Mexico,6,Instagram,0,10,0,In a relationship,0,2
+22,Female,Graduate,Mexico,4,TikTok,0,9,0,In a relationship,0,2
+21,Female,Graduate,Mexico,5,TikTok,1,8,0,In a relationship,0,3
+21,Female,Graduate,Mexico,7,Facebook,1,6,0,Single,0,7
+24,Male,Graduate,Mexico,12,Facebook,0,6,0,In a relationship,0,7
+23,Male,Graduate,Mexico,5,TikTok,0,6,0,Single,0,8
+24,Male,Graduate,Mexico,5,Instagram,0,3,0,Single,3,7
+10,Male,Graduate,Mexico,2,Instagram,1,8,0,Single,0,7
+20,Male,Graduate,Mexico,8,Instagram,1,7,0,Single,0,8
